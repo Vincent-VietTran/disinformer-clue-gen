@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Entertainment",
+    "game": null,
+    "games": [
+      {
+        "gameName": "movie - Star Wars: Episode I - The Phantom Menace",
+        "rounds": [
+          {
+            "answer": "movie",
+            "informed_clues": [
+              "A medium that uses visual and auditory elements to tell stories.",
+              "Often includes special effects to create imaginary worlds.",
+              "Can be watched on screens in theaters or at home.",
+              "Usually has a runtime of around two hours.",
+              "Involves actors performing roles.",
+              "Sound design and music are crucial elements.",
+              "Plots can be original or based on existing material.",
+              "Edits scenes to control the pacing and tone.",
+              "Can be part of a series or a standalone story."
+            ],
+            "misinformed_clues": [
+              "It's a form of storytelling that can be experienced alone or with others.",
+              "Can include action, drama, or comedy genres."
+            ],
+            "extra_clues": [
+              "It's often distributed on reels of film or digital files."
+            ],
+            "fake_clues": [
+              "It's typically read silently.",
+              "It's usually experienced live in a theater."
+            ],
+            "choices": [
+              "movie",
+              "book",
+              "play"
+            ],
+            "disinformer_instructions": [
+              "Encourage focusing on the collaborative storytelling aspect.",
+              "Suggest considering the importance of visual elements.",
+              "Mention the role of sound in enhancing the experience."
+            ]
+          },
+          {
+            "answer": "Star Wars: Episode I - The Phantom Menace",
+            "informed_clues": [
+              "Features a young protagonist with a special connection to energy.",
+              "Involves a political dispute in a galactic government.",
+              "Includes a race involving high-speed vehicles.",
+              "A group of warriors with energy swords and robes.",
+              "A queen with a dual identity.",
+              "A comedic relief character of a certain species.",
+              "Mentor figure with a long-standing conflict.",
+              "Involves a trade federation and blockades.",
+              "Introduces a young boy with a significant destiny."
+            ],
+            "misinformed_clues": [
+              "Involves a hidden royal identity.",
+              "Features a council of wise leaders."
+            ],
+            "extra_clues": [
+              "Explores the concept of prophecy and destiny."
+            ],
+            "fake_clues": [
+              "Focuses on a single planet's ecosystem.",
+              "Revolves around a romantic subplot."
+            ],
+            "choices": [
+              "Star Wars: Episode I - The Phantom Menace",
+              "The Matrix",
+              "Inception"
+            ],
+            "disinformer_instructions": [
+              "Highlight the political elements to divert from the main plot.",
+              "Emphasize the racing scenes as a key focus.",
+              "Focus discussions on the queen's dual role."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "song - Love Story by Taylor Swift",
+        "rounds": [
+          {
+            "answer": "song",
+            "informed_clues": [
+              "Uses melody and rhythm to convey emotion.",
+              "Often played on radios or digital platforms.",
+              "Can be sung along to by listeners.",
+              "Usually lasts between three to five minutes.",
+              "Can express personal feelings or narratives.",
+              "Involves instruments or vocals.",
+              "Can be part of an album or a single release.",
+              "Edited to balance verses and choruses.",
+              "Can be performed live or recorded."
+            ],
+            "misinformed_clues": [
+              "It's a way to express emotions through words.",
+              "Can be enjoyed in various settings alone or with others."
+            ],
+            "extra_clues": [
+              "It often follows a verse-chorus structure."
+            ],
+            "fake_clues": [
+              "It's typically written in prose form.",
+              "It's performed live without prior preparation."
+            ],
+            "choices": [
+              "song",
+              "poem",
+              "book"
+            ],
+            "disinformer_instructions": [
+              "Encourage discussion on emotional expression.",
+              "Suggest considering the structure of verses and choruses.",
+              "Mention the role of instruments in enhancing mood."
+            ]
+          },
+          {
+            "answer": "Love Story by Taylor Swift",
+            "informed_clues": [
+              "References a classic tale of star-crossed lovers.",
+              "Uses a soft bridge to build emotional tension.",
+              "Involves a key change for a powerful finish.",
+              "Narrates a romantic journey from youth to commitment.",
+              "Includes a secret meeting scenario.",
+              "The chorus is catchy and memorable.",
+              "Mentions a heroic rescue in the narrative.",
+              "Features a romantic duet in its composition.",
+              "The music video has a fairytale theme."
+            ],
+            "misinformed_clues": [
+              "Involves a midnight meeting in secret.",
+              "References a historical fictional couple."
+            ],
+            "extra_clues": [
+              "The song's structure builds from soft to powerful."
+            ],
+            "fake_clues": [
+              "It's about a breakup rather than a union.",
+              "It's performed in a minor key throughout."
+            ],
+            "choices": [
+              "Love Story by Taylor Swift",
+              "A Thousand Years by Christina Perri",
+              "I Will Always Love You by Whitney Houston"
+            ],
+            "disinformer_instructions": [
+              "Emphasize the fairytale elements to mislead.",
+              "Highlight the secret meeting as a key point.",
+              "Focus on the duet aspect to confuse with other songs."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "tv series - Avatar: The Last Airbender",
+        "rounds": [
+          {
+            "answer": "tv series",
+            "informed_clues": [
+              "Consists of multiple episodes telling a continuous story.",
+              "Broadcast on television or streamed online.",
+              "Each episode often ends with a cliffhanger.",
+              "Can be watched in seasons with breaks in between.",
+              "Involves recurring characters and story arcs.",
+              "Soundtracks and visuals enhance the narrative.",
+              "Can be fictional or based on real events.",
+              "Edited into episodes of set lengths.",
+              "Can be watched in binge or weekly intervals."
+            ],
+            "misinformed_clues": [
+              "It's a serialized form of storytelling.",
+              "Can be enjoyed in various settings alone or with others."
+            ],
+            "extra_clues": [
+              "It often includes opening and ending credits."
+            ],
+            "fake_clues": [
+              "It's typically a single, long film.",
+              "It's performed live without prior recording."
+            ],
+            "choices": [
+              "tv series",
+              "movie",
+              "book"
+            ],
+            "disinformer_instructions": [
+              "Encourage discussion on the episodic structure.",
+              "Suggest considering the role of cliffhangers.",
+              "Mention the importance of recurring characters."
+            ]
+          },
+          {
+            "answer": "Avatar: The Last Airbender",
+            "informed_clues": [
+              "Features a young boy who can manipulate elements.",
+              "Set in a world divided into four nations.",
+              "Involves a group of elemental warriors.",
+              "A young boy frozen in an iceberg awakens.",
+              "A flying creature serves as a main character's mount.",
+              "Involves a journey to master four elements.",
+              "A bald-headed mentor with a staff.",
+              "A princess from a water tribe.",
+              "Involves a conflict with a fire nation."
+            ],
+            "misinformed_clues": [
+              "Involves a journey to master magical abilities.",
+              "Features a group of heroes on a quest."
+            ],
+            "extra_clues": [
+              "Explores themes of balance and harmony."
+            ],
+            "fake_clues": [
+              "Focuses on a single city's politics.",
+              "Revolve around a romantic subplot."
+            ],
+            "choices": [
+              "Avatar: The Last Airbender",
+              "The Legend of Korra",
+              "Dragon Ball Z"
+            ],
+            "disinformer_instructions": [
+              "Highlight the elemental manipulation to confuse with other shows.",
+              "Emphasize the journey aspect to mislead.",
+              "Focus on the group of heroes to divert attention."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Animals",
+    "game": null,
+    "games": [
+      {
+        "gameName": "big cats - leopard",
+        "rounds": [
+          {
+            "answer": "big cats",
+            "informed_clues": [
+              "Large felines known for their powerful physiques and hunting prowess.",
+              "Often found in diverse habitats, from jungles to savannas.",
+              "Typically solitary hunters, using stealth and ambush tactics.",
+              "Known for their retractable claws, essential for climbing and hunting.",
+              "Play a crucial role as apex predators in their ecosystems.",
+              "Their roar can be heard over long distances, serving as a form of communication.",
+              "Most species are nocturnal, with excellent night vision.",
+              "They are territorial and mark their territories with scent and scratch marks.",
+              "Despite their size, they are agile and capable of reaching high speeds."
+            ],
+            "misinformed_clues": [
+              "These animals are often kept as pets in urban households.",
+              "They are primarily herbivores, feeding on grasses and fruits."
+            ],
+            "extra_clues": [
+              "Their teeth are adapted for both piercing flesh and crushing bone."
+            ],
+            "fake_clues": [
+              "They are known for their ability to fly silently at night.",
+              "These creatures have a venomous sting used for defense."
+            ],
+            "choices": [
+              "big cats",
+              "domestic animals",
+              "reptiles"
+            ],
+            "disinformer_instructions": [
+              "Emphasize the idea that these animals are commonly found in urban environments.",
+              "Suggest that they primarily consume plants rather than meat.",
+              "Highlight their supposed ability to fly or climb trees with ease."
+            ]
+          },
+          {
+            "answer": "leopard",
+            "informed_clues": [
+              "Known for their distinctive spotted coats, aiding in camouflage.",
+              "Expert climbers, often dragging prey into trees to feed.",
+              "Nocturnal hunters, relying on night vision and agility.",
+              "Territorial, with males marking areas with urine and roar calls.",
+              "Smaller than lions and tigers but more agile and stealthy.",
+              "Found in various habitats, from forests to grasslands.",
+              "Their diet includes monkeys, antelopes, and smaller mammals.",
+              "Leopard cubs learn to hunt from their mothers at a young age.",
+              "They are solitary animals and only come together for mating."
+            ],
+            "misinformed_clues": [
+              "These big cats are known for living in prides like lions.",
+              "They are primarily diurnal, hunting during the day."
+            ],
+            "extra_clues": [
+              "They have a unique way of storing food in tree branches to protect it from other predators."
+            ],
+            "fake_clues": [
+              "These animals are known for their bright yellow and black stripes.",
+              "They are excellent swimmers and often cool off in rivers."
+            ],
+            "choices": [
+              "lion",
+              "leopard",
+              "jaguar"
+            ],
+            "disinformer_instructions": [
+              "Suggest that these animals are social and live in groups.",
+              "Mention that they are active during the day and hunt openly.",
+              "Imply that they have striped patterns rather than spots."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "birds of prey - vulture",
+        "rounds": [
+          {
+            "answer": "birds of prey",
+            "informed_clues": [
+              "Known for their sharp talons and hooked beaks, adapted for tearing flesh.",
+              "They have exceptional eyesight, spotting prey from great heights.",
+              "Most species are carnivorous, feeding on small mammals, birds, and reptiles.",
+              "They are skilled flyers, using thermals to soar for long periods.",
+              "Play a crucial role in ecosystems by controlling pest populations.",
+              "Many species are monogamous, forming long-term pair bonds.",
+              "They build nests on cliffs or in trees, often reusing them each year.",
+              "Young birds rely on their parents for food and protection for several months.",
+              "They are important indicators of environmental health due to their position in the food chain."
+            ],
+            "misinformed_clues": [
+              "These birds are known for their melodious songs and bright plumage.",
+              "They are primarily herbivores, feeding on seeds and fruits."
+            ],
+            "extra_clues": [
+              "Their feathers are specially adapted to reduce noise during flight."
+            ],
+            "fake_clues": [
+              "They are known for their bright, colorful feathers used in courtship displays.",
+              "These birds are excellent swimmers, often diving into water for prey."
+            ],
+            "choices": [
+              "birds of prey",
+              "waterfowl",
+              "songbirds"
+            ],
+            "disinformer_instructions": [
+              "Emphasize the idea that these birds are known for their beautiful songs.",
+              "Suggest that they primarily eat plants and seeds.",
+              "Highlight their supposed vibrant plumage and courtship rituals."
+            ]
+          },
+          {
+            "answer": "vulture",
+            "informed_clues": [
+              "Primarily scavengers, feeding on the carcasses of dead animals.",
+              "They have a bald head and neck, reducing the risk of bacterial growth.",
+              "They are found in both warm and temperate regions around the world.",
+              "They have a highly developed sense of smell to locate carrion.",
+              "They often soar in groups, following other vultures to find food.",
+              "Their strong, hooked beaks are perfect for tearing flesh from bones.",
+              "They are important for cleaning up dead animals, preventing disease spread.",
+              "They are monogamous, with pairs forming during breeding season.",
+              "They are large birds with broad wings, allowing them to soar for long periods."
+            ],
+            "misinformed_clues": [
+              "These birds are known for their vibrant plumage and acrobatic flight.",
+              "They are primarily active at night, similar to owls."
+            ],
+            "extra_clues": [
+              "They have a unique way of defending themselves by vomiting when threatened."
+            ],
+            "fake_clues": [
+              "These birds are known for their bright, colorful feathers.",
+              "They are excellent swimmers, often found in wetland areas."
+            ],
+            "choices": [
+              "eagle",
+              "vulture",
+              "hawk"
+            ],
+            "disinformer_instructions": [
+              "Suggest that these birds are active at night and have excellent night vision.",
+              "Emphasize the idea that they have colorful feathers for mating displays.",
+              "Imply that they are good swimmers and spend much time in water."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "rodents - porcupines",
+        "rounds": [
+          {
+            "answer": "rodents",
+            "informed_clues": [
+              "The largest order of mammals, with over 2,000 species worldwide.",
+              "Characterized by their continuously growing incisors, which must be kept worn down.",
+              "Found in almost every habitat, from deserts to rainforests.",
+              "They are primarily herbivores, feeding on seeds, fruits, and vegetation.",
+              "Many species are social, living in large groups for protection.",
+              "They are important seed dispersers and ecosystem engineers.",
+              "Some species are known for their ability to store food for winter.",
+              "They have a highly developed sense of smell and hearing.",
+              "Their teeth are orange due to the enamel's hard, outer layer."
+            ],
+            "misinformed_clues": [
+              "These animals are known for their ability to fly through the air with ease.",
+              "They are primarily carnivores, feeding on small insects and animals."
+            ],
+            "extra_clues": [
+              "Their teeth are self-sharpening, with the front teeth growing throughout their lives."
+            ],
+            "fake_clues": [
+              "They are known for their webbed feet and ability to swim long distances.",
+              "These animals have a venomous bite used for capturing prey."
+            ],
+            "choices": [
+              "rodents",
+              "marsupials",
+              "amphibians"
+            ],
+            "disinformer_instructions": [
+              "Suggest that these animals are capable of flight.",
+              "Emphasize the idea that they are primarily meat-eaters.",
+              "Highlight their supposed ability to swim long distances with webbed feet."
+            ]
+          },
+          {
+            "answer": "porcupines",
+            "informed_clues": [
+              "Covered in sharp, barbed quills used for defense against predators.",
+              "They are nocturnal, spending most of their time alone or in pairs.",
+              "Primarily herbivores, feeding on leaves, twigs, and bark.",
+              "They are excellent climbers, often resting in trees during the day.",
+              "Their quills are modified hairs that can detach easily when touched.",
+              "They are found in forests and rocky areas, avoiding open spaces.",
+              "They have a unique way of communicating through a variety of sounds.",
+              "Young porcupines are born with soft quills that harden after birth.",
+              "They are important in dispersing seeds through their digestive system."
+            ],
+            "misinformed_clues": [
+              "These animals are known for their ability to roll into a ball for defense.",
+              "They are primarily active during the day, similar to squirrels."
+            ],
+            "extra_clues": [
+              "They have a unique, musky odor that deters predators."
+            ],
+            "fake_clues": [
+              "These animals are known for their bright, colorful quills.",
+              "They are excellent swimmers, often cooling off in rivers."
+            ],
+            "choices": [
+              "porcupines",
+              "hedgehogs",
+              "armadillos"
+            ],
+            "disinformer_instructions": [
+              "Suggest that these animals can roll into a ball for defense.",
+              "Emphasize the idea that they are active during the day.",
+              "Highlight their supposed ability to swim and cool off in water."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "random",
+    "game": null,
+    "games": [
+      {
+        "gameName": "string instruments - violin",
+        "rounds": [
+          {
+            "answer": "string instruments",
+            "informed_clues": [
+              "Played by drawing a bow across strings or plucking them with fingers.",
+              "Commonly includes violins, cellos, and harps in orchestral settings.",
+              "Often used in classical music to create rich, harmonic layers.",
+              "The sound is produced by vibrating strings of various materials.",
+              "Can be played solo or in ensembles, both in classical and folk music.",
+              "Instruments like the guitar and lute also fall into this category.",
+              "The construction typically includes a resonating body and a neck with frets.",
+              "Used in various cultures, from Western classical to traditional folk music.",
+              "The pitch is altered by pressing strings against the fretboard or pegs."
+            ],
+            "misinformed_clues": [
+              "Sometimes used in rock bands, though not as prominently as guitars.",
+              "Can be electronic versions that mimic acoustic sounds."
+            ],
+            "extra_clues": [
+              "Instruments where sound is produced by plucking or bowing strings."
+            ],
+            "fake_clues": [
+              "Often used in jazz improvisation as a lead instrument.",
+              "Typically played with a keyboard or electronic interface."
+            ],
+            "choices": [
+              "wind instruments",
+              "string instruments",
+              "percussion instruments"
+            ],
+            "disinformer_instructions": [
+              "Encourage focusing on the versatility across music genres.",
+              "Suggest considering both acoustic and electronic variants.",
+              "Emphasize the role in both classical and modern music."
+            ]
+          },
+          {
+            "answer": "violin",
+            "informed_clues": [
+              "The smallest and highest-pitched instrument in the string family.",
+              "Often played with a bow, though virtuosos use plucking techniques.",
+              "Used as a solo instrument in many classical compositions.",
+              "Its body is typically made from wood, with four strings tuned to perfect fifths.",
+              "Known for its expressive and emotive sound in orchestral pieces.",
+              "The instrument's neck is fretless, allowing for glissando effects.",
+              "Popular in folk music, such as in Irish or gypsy styles.",
+              "The bow is made from horsehair and rosined to produce sound.",
+              "It's played with the instrument resting on the shoulder."
+            ],
+            "misinformed_clues": [
+              "It's the largest string instrument in an orchestra.",
+              "Some versions have additional strings for resonance."
+            ],
+            "extra_clues": [
+              "The instrument's soundbox is shaped to amplify higher frequencies."
+            ],
+            "fake_clues": [
+              "It's commonly used as a rhythm section instrument in bands.",
+              "Electronic versions are more popular than acoustic ones."
+            ],
+            "choices": [
+              "cello",
+              "viola",
+              "violin"
+            ],
+            "disinformer_instructions": [
+              "Highlight its presence in both classical and folk genres.",
+              "Mention its role as both a solo and ensemble instrument.",
+              "Emphasize the expressive qualities of its sound."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "disney musical - High School Musical 3: Senior Year",
+        "rounds": [
+          {
+            "answer": "disney musical",
+            "informed_clues": [
+              "Features original songs that advance the plot and develop characters.",
+              "Typically includes a mix of comedy, drama, and romance.",
+              "Often set in high school or fantastical worlds with moral lessons.",
+              "Characters frequently break into song to express emotions.",
+              "Includes iconic duets and ensemble numbers.",
+              "The storylines often revolve around personal growth and friendships.",
+              "Musicals like The Lion King and Aladdin fall into this category.",
+              "These films are known for their family-friendly content and catchy tunes.",
+              "They frequently incorporate dance choreography into musical numbers."
+            ],
+            "misinformed_clues": [
+              "These can be live-action or animated, depending on the story.",
+              "Some are based on real historical events or fairy tales."
+            ],
+            "extra_clues": [
+              "They often blend music, storytelling, and visual spectacle."
+            ],
+            "fake_clues": [
+              "These are typically aimed at adult audiences only.",
+              "Most are silent films without any musical elements."
+            ],
+            "choices": [
+              "action movie",
+              "disney musical",
+              "documentary"
+            ],
+            "disinformer_instructions": [
+              "Point out the blend of music and storytelling.",
+              "Mention the variety of genres within Disney musicals.",
+              "Highlight the role of song in character development."
+            ]
+          },
+          {
+            "answer": "High School Musical 3: Senior Year",
+            "informed_clues": [
+              "The final installment of a trilogy focusing on high school life.",
+              "Features a senior class preparing for graduation and prom.",
+              "Includes a famous basketball team with a key player.",
+              "The story explores themes of friendship and future plans.",
+              "A prominent theater group is central to the plot.",
+              "Characters face decisions about college and their futures.",
+              "The movie includes a memorable final musical performance.",
+              "The main characters include a popular basketball star and a brainiac.",
+              "The film concludes with a grand graduation ceremony."
+            ],
+            "misinformed_clues": [
+              "It's the first movie in the series, introducing the main characters.",
+              "The story is set in a middle school rather than high school."
+            ],
+            "extra_clues": [
+              "The film wraps up the storylines of the main characters."
+            ],
+            "fake_clues": [
+              "It's a prequel exploring the characters' middle school years.",
+              "The movie focuses solely on sports without musical elements."
+            ],
+            "choices": [
+              "High School Musical 2",
+              "High School Musical 3: Senior Year",
+              "Camp Rock"
+            ],
+            "disinformer_instructions": [
+              "Focus on the themes of graduation and future plans.",
+              "Mention the mix of sports and theater in the plot.",
+              "Highlight the conclusion of the trilogy storyline."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "martial arts - Muay Thai",
+        "rounds": [
+          {
+            "answer": "martial arts",
+            "informed_clues": [
+              "Practices include strikes, throws, and submission holds.",
+              "Used for self-defense, physical fitness, and mental discipline.",
+              "Many forms emphasize harmony between mind and body.",
+              "Disciplines like Karate and Taekwondo fall into this category.",
+              "Training often involves forms, sparring, and breaking techniques.",
+              "Martial arts are practiced worldwide for various purposes.",
+              "They can be competitive sports or meditative practices.",
+              "The term originated from the Latin word for war and combat.",
+              "Most emphasize respect, focus, and self-control."
+            ],
+            "misinformed_clues": [
+              "All are contact sports and involve full physical combat.",
+              "They are only practiced in Eastern Asian countries."
+            ],
+            "extra_clues": [
+              "Systems of codified practices for combat, self-defense, and more."
+            ],
+            "fake_clues": [
+              "They are only used in professional fighting competitions.",
+              "Most are team sports played with a ball."
+            ],
+            "choices": [
+              "team sports",
+              "martial arts",
+              "board games"
+            ],
+            "disinformer_instructions": [
+              "Highlight the variety of purposes beyond combat.",
+              "Mention the mental and physical benefits.",
+              "Emphasize the global presence of martial arts."
+            ]
+          },
+          {
+            "answer": "Muay Thai",
+            "informed_clues": [
+              "Originated in Thailand as a traditional fighting art.",
+              "Known as the 'Art of Eight Limbs' for its striking techniques.",
+              "Uses fists, elbows, knees, and shins in combat.",
+              "Practitioners undergo rigorous physical conditioning.",
+              "It is the national sport of Thailand, highly revered.",
+              "Training includes ritualistic ceremonies before matches.",
+              "The style emphasizes powerful strikes and clinch work.",
+              "Fighters wear traditional Mongkol headbands during rituals.",
+              "It's known for its intense physicality and endurance demands."
+            ],
+            "misinformed_clues": [
+              "It's a grappling-focused martial art without strikes.",
+              "It's primarily practiced in Japan, not Thailand."
+            ],
+            "extra_clues": [
+              "The martial art is known for its cultural significance in Thailand."
+            ],
+            "fake_clues": [
+              "It's a weapon-based martial art using swords and sticks.",
+              "It's a low-impact sport focusing on meditation."
+            ],
+            "choices": [
+              "Brazilian Jiu-Jitsu",
+              "Muay Thai",
+              "Karate"
+            ],
+            "disinformer_instructions": [
+              "Focus on the cultural and traditional aspects.",
+              "Mention the unique striking techniques.",
+              "Highlight its status as Thailand's national sport."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
