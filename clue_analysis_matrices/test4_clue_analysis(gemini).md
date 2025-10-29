@@ -1,7 +1,7 @@
 # Analysis for Test 4
 
 # Game Clue Analysis Matrix
-**Test Run 4 | Round 2: TV Show → Breaking Bad**
+**Test Run 4 | Round 1: TV Show → Breaking Bad**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.2 words
+**Average Word Count:** 18.1 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -20,21 +20,10 @@
 
 ## 2. Quality Scores (Rate 1-5)
 
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
 
-The informed clues are generally strong and specific, effectively pointing towards 'Breaking Bad'.
-- Informed Clue 1 ('A high school chemistry teacher...'): Highly specific to Walter White. (5/5)
-- Informed Clue 2 ('Driven by the critical need...'): Specific to Walter White's initial motivation and transformation. (5/5)
-- Informed Clue 3 ('Production of illicit substances...'): Very specific to the mobile lab (RV). (5/5)
-- Informed Clue 4 ('A former student...'): Highly specific to Jesse Pinkman's role. (5/5)
-- Informed Clue 5 ('Themes of moral decay...'): While true, this is a somewhat generic theme for crime dramas and could apply to 'The Sopranos' or 'Ozark'. (3/5)
-- Informed Clue 6 ('The protagonist's brother-in-law...'): Highly specific to Hank Schrader. (5/5)
-- Informed Clue 7 ('This story features a unique blue product...'): Highly specific to the blue meth. (5/5)
-- Informed Clue 8 ('A lawyer with questionable ethics...'): Highly specific to Saul Goodman. (5/5)
-- Informed Clue 9 ('The narrative explores the consequences...'): This is a universal theme and not specific enough to 'Breaking Bad' alone. (3/5)
-- Extra Clue 1 ('Set in the American Southwest...'): Highly specific to the setting of 'Breaking Bad'. (5/5)
-Overall, 8 out of 10 clues (including the extra clue) are highly specific, while 2 are more generic. This results in a strong score, but not a perfect 5.
+All informed clues are excellent. They avoid answer contamination and are highly specific to TV Shows. They cover different aspects, from structure (clue 1) to distribution (clue 2) to genre (clue 5) to production (clue 6) to impact (clue 9). They build a strong case for the answer. 
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -43,12 +32,10 @@ Overall, 8 out of 10 clues (including the extra clue) are highly specific, while
 ⚠️ Concerns:
 - Minor thematic overlap observed
 
-### Misinformed Clues: 5/5  
-**Excellent - Outstanding**
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
 
-Both misinformed clues are excellent at creating productive doubt by being applicable to 'Breaking Bad' while also fitting the other choices.
-- Misinformed Clue 1 ('A family man gets caught up...'): This perfectly describes Walter White (Breaking Bad), Marty Byrde (Ozark), and even Tony Soprano (The Sopranos, struggling to protect his family from his world). (5/5)
-- Misinformed Clue 2 ('The plot revolves around money laundering...'): While 'Breaking Bad' features money laundering, this clue leans more heavily towards 'Ozark' (central theme) and 'The Sopranos' (secret double life). It effectively creates ambiguity. (5/5)
+The misinformed clues are related to the answer (communication and written content) but are too generic. Clue 1 could apply to almost anything, and clue 2 is vague. They create some ambiguity but could be improved to specifically hint at the *form* of TV Show rather than general communication.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -61,9 +48,7 @@ Both misinformed clues are excellent at creating productive doubt by being appli
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-Both fake clues are perfectly crafted to misdirect towards the incorrect answer choices.
-- Fake Clue 1 ('Explores the complex inner world of a mob boss...'): This is undeniably specific to 'The Sopranos' and Tony Soprano's therapy sessions. (5/5)
-- Fake Clue 2 ('A financial advisor relocates his family...'): This is an accurate and distinct description of the premise of 'Ozark'. (5/5)
+The fake clues are excellent. They are very clear misdirections. Clue 1 points to 'Movie' with video clips and sound, and clue 2 points to 'Book' with artistic expression and the telling of stories. They directly address the other choices.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -87,21 +72,21 @@ Both fake clues are perfectly crafted to misdirect towards the incorrect answer 
 
 | Score | Assessment |
 |-------|------------|
-| Rating | 2/5 - 🟢 Too Easy |
+| Rating | 4/5 - 🟠 Too Hard |
 
-**Reasoning:** The game's difficulty is rated as easy (2) due to the overwhelming number of highly specific informed clues for 'Breaking Bad'. With 8 out of 10 clues (including the extra clue) being uniquely identifiable with 'Breaking Bad' (e.g., chemistry teacher, mobile lab, blue product, federal agent brother-in-law, specific lawyer, desert setting), players with even moderate knowledge of the shows would quickly pinpoint the correct answer. While the misinformed and fake clues are well-executed in creating ambiguity and misdirection for the other choices, their effectiveness is diminished by the sheer volume and precision of the clues pointing directly to 'Breaking Bad'.
+**Reasoning:** The informed clues are very strong, making the answer clear, but the misinformed clues add a layer of doubt and create some difficulty. The fake clues are well-placed to mislead the player. The difficulty is high because of the balance between the clarity of the informed clues and the vagueness of the misinformed clues.
 
 ---
 
 ## Overall Assessment
 
-**Overall Quality Score:** 4.7/5
+**Overall Quality Score:** 4.3/5
 
 **Pass/Fail:** ✅ PASS
 
 **Main Issues:**
 - Word count compliance issues
-- Generic/vague clues
+- Missing specificity in clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -109,7 +94,105 @@ Both fake clues are perfectly crafted to misdirect towards the incorrect answer 
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clue set demonstrates strong adherence to length requirements and excels in crafting effective misinformed and fake clues. The informed clues are mostly very specific, though a couple are somewhat generic. The primary area for adjustment to increase difficulty would be to reduce the number of highly specific informed clues for the correct answer, or introduce more misinformed/fake clues to balance the game. The current setup makes 'Breaking Bad' too easy to identify.
+The clues are well-constructed overall. The informed and fake clues are very effective. The misinformed clues could be improved to be more ambiguous while remaining relevant. The length and specificity requirements are met.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 4 | Round 2: TV Show → Breaking Bad**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 17.9 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 4/5  
+**Very Good - Exceeds expectations**
+
+The informed clues are generally strong and specific to Breaking Bad. Clue 1 (transformation) and clue 8 (greed, power) are particularly good, hitting key themes. Clue 4 (desert landscape) is a good example of specificity. Clue 6 (cliffhangers) is also very effective. Clue 9 (character portrayals) is slightly more generic, but still relevant. Clue 3 (symbolism) is good. Clue 2 (desperate circumstances) and clue 5 (family dynamics) are a little generic, but still fit.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
+
+The misinformed clues are related to the general themes of the choices, making them somewhat ambiguous. Clue 1 (teenagers/mystical powers) could apply to The Wire or The Sopranos, though it's less fitting. Clue 2 (friends in a small community) is vague enough to potentially fit any of the choices, creating productive doubt.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+The fake clues effectively misdirect. Clue 1 (love and loss) is generic enough to apply to any show, but not specific. Clue 2 (thrilling adventures) is similar, and the explicit statement that it's not the correct answer is a good touch to ensure misdirection. They don't relate to Breaking Bad at all.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 3/5 - 🟢 Just Right |
+
+**Reasoning:** The clues are a good mix of specific and slightly more general, making the difficulty level appropriate. The informed clues are specific enough to hint at Breaking Bad, while the misinformed and fake clues add layers of ambiguity and misdirection.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.0/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Word count compliance issues
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+The clues are well-crafted and effectively fulfill their respective roles. The informed clues are specific and point to Breaking Bad, the misinformed clues introduce productive doubt, and the fake clues successfully misdirect. The length compliance is perfect.
 
 ---
 
@@ -118,4 +201,5 @@ The clue set demonstrates strong adherence to length requirements and excels in 
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 2 | 100% | 4/5 | 5/5 | 5/5 | 2/5 |
+| 1 | 100% | 5/5 | 3/5 | 5/5 | 4/5 |
+| 2 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
