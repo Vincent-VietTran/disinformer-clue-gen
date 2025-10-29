@@ -8,7 +8,9 @@
         - Could also mannually refine the unqualified clues to make it valid in terms of length
         - Replace the non-compliant clue in your parsed JSON data with the corrected version.
     - Use the fully validated/corrected JSON data for your game.
-
+    - fix/consideration to avoid reaching RPM (request per minute) limit
+        - Rewrite failed clue in batch instead of every single one
+        
 
 
 2. generate more clues, then filter out best
