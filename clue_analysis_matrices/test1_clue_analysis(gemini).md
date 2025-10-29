@@ -20,10 +20,10 @@
 
 ## 2. Quality Scores (Rate 1-5)
 
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
 
-The informed clues are generally strong. They provide specific details about movies and are mostly distinct. Clue 1, 2, 3, 5, 6, 7, and 8 are all very good, focusing on visual entertainment, storytelling, and the production process. Clue 4 is slightly less strong, as it could apply to other forms of art. Clue 9 is good, covering the diversity of genres. No clues contain the answer word, which is good.
+Both samples are specific and distinct, directly referencing visual entertainment and storytelling through moving images, avoiding the word 'movie'.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -32,10 +32,10 @@ The informed clues are generally strong. They provide specific details about mov
 ⚠️ Concerns:
 - Minor thematic overlap observed
 
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
+### Misinformed Clues: 4/5  
+**Very Good - Exceeds expectations**
 
-The misinformed clues are somewhat effective. Clue 1, referring to libraries or bookstores, vaguely connects to a movie's source material (books). Clue 2, referencing classrooms, is less effective, as movies are rarely made or shown in classrooms. They could be improved by leaning into a more tangential connection. The clues are related to the answer but could be more ambiguous to other choices.
+The misinformed clues are related to the correct answer (films can be found in libraries, and used in classrooms), but are vague enough to also apply to 'song' (e.g., musical scores can be in libraries) and 'poem' (poems are in classrooms and books). They create productive ambiguity.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ The misinformed clues are somewhat effective. Clue 1, referring to libraries or 
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are excellent. Clue 1 clearly points to 'song' by describing musical compositions. Clue 2 clearly points to 'poem', describing written words for an audience. They are both highly effective at misdirecting the player.
+The fake clues directly point to the incorrect choices. One refers to musical compositions (song) and the other to carefully chosen words (poem). Neither relates to the correct answer.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,18 +74,18 @@ The fake clues are excellent. Clue 1 clearly points to 'song' by describing musi
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are specific enough to make the answer clear but not so obvious as to make the game too easy. The fake clues are strong and should provide good misdirection. The misinformed clues add a layer of doubt. Overall, the clues strike a good balance in terms of difficulty.
+**Reasoning:** The informed clues are clear, the misinformed clues add a layer of confusion, and the fake clues effectively misdirect. This creates a balanced level of difficulty.
 
 ---
 
 ## Overall Assessment
 
-**Overall Quality Score:** 4.0/5
+**Overall Quality Score:** 4.7/5
 
 **Pass/Fail:** ✅ PASS
 
 **Main Issues:**
-- Minor issues noted
+- Insufficient ambiguity in misinformed clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -93,7 +93,7 @@ The fake clues are excellent. Clue 1 clearly points to 'song' by describing musi
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clues are well-constructed and effectively fulfill their roles. The informed clues are specific, the fake clues are well-targeted, and the misinformed clues are adequately ambiguous. The game should be fun and challenging.
+The clues are well-crafted, creating a good balance of clarity, ambiguity, and misdirection, making the game challenging but fair.
 
 ---
 
@@ -121,7 +121,7 @@ The clues are well-constructed and effectively fulfill their roles. The informed
 ### Informed Clues: 4/5  
 **Very Good - Exceeds expectations**
 
-The informed clues are generally strong. Clue 1 is a good starting point, hinting at the key themes. Clue 2 is also good, mentioning space battles and mysticism. Clue 3 mentions political intrigue and alliances, which is relevant to the answer. Clue 4 is helpful, focusing on the Queen. Clue 5 is slightly more general, but still points towards the answer. Clue 6, 7 and 8 provide more specific details. Clue 9 is also good, referencing the broader themes. All clues help narrow down the answer.
+Both samples are specific, avoiding the answer title, and highlight key elements like destiny, galactic conflict, space battles, and mysticism, which are distinct aspects of the film.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -133,7 +133,7 @@ The informed clues are generally strong. Clue 1 is a good starting point, hintin
 ### Misinformed Clues: 3/5  
 **Good - Meets requirements**
 
-The misinformed clues are related to the answer's genre but are sufficiently vague to apply to multiple choices. Clue 1 mentions 'hero's journey' and 'medieval warfare', which could relate to 'The Lord of the Rings', and the second clue mentions 'mysterious island' which can be associated with any adventure movie.
+The samples are related to the fantasy/adventure genre, making them applicable to multiple choices. The ambiguity works well, suggesting elements that could fit any of the choices without being overly specific.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -146,7 +146,7 @@ The misinformed clues are related to the answer's genre but are sufficiently vag
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are excellent. Clue 1 directly references high school life, love, loss, and drama, which points away from all the answer choices. Clue 2 is about detective work, which is completely unrelated to the answer choices. These provide effective misdirection.
+The samples clearly point towards themes of high school drama or detective investigations, which are completely unrelated to any of the provided choices, effectively misdirecting the player.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -170,9 +170,9 @@ The fake clues are excellent. Clue 1 directly references high school life, love,
 
 | Score | Assessment |
 |-------|------------|
-| Rating | 4/5 - 🟠 Too Hard |
+| Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The clues are a good mix of specific and general information. The informed clues provide enough detail to help narrow down the answer without being overly obvious. The misinformed clues introduce ambiguity, and the fake clues create effective misdirection, making the game challenging but fair.
+**Reasoning:** The informed clues give good hints without giving away the answer. The misinformed clues create some ambiguity to confuse the player. The fake clues are effective at pointing away from the correct answer.
 
 ---
 
@@ -183,7 +183,8 @@ The fake clues are excellent. Clue 1 directly references high school life, love,
 **Pass/Fail:** ✅ PASS
 
 **Main Issues:**
-- Word count compliance issues
+- Insufficient ambiguity in misinformed clues
+- Missing specificity in clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -191,7 +192,7 @@ The fake clues are excellent. Clue 1 directly references high school life, love,
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clues are well-crafted and effectively fulfill their respective purposes. The informed clues are specific enough to guide the player toward the correct answer, the misinformed clues introduce productive doubt, and the fake clues provide effective misdirection. The length compliance is perfect.
+The clues are well-crafted, providing a good balance of specificity, ambiguity, and misdirection to create an engaging challenge.
 
 ---
 
@@ -200,5 +201,5 @@ The clues are well-crafted and effectively fulfill their respective purposes. Th
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
-| 2 | 100% | 4/5 | 3/5 | 5/5 | 4/5 |
+| 1 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |
+| 2 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
