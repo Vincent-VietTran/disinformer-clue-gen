@@ -1,7 +1,7 @@
 # Analysis for Test 10
 
 # Game Clue Analysis Matrix
-**Test Run 10 | Round 1: Historical Event → Moon Landing 1969**
+**Test Run 10 | Round 1: Movie**
 
 ---
 
@@ -10,107 +10,9 @@
 |--------|----------|
 | ✅ PASS | Clues within 15-20 words |
 
-**Compliance Rate:** 100% (15/15 clues)  
-**Outliers:** 0/15 clues failed  
-**Average Word Count:** 16.3 words
-
-**Assessment:** ✅ Acceptable - Most clues meet length requirements
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-The clues are good, highlighting the documentation, societal impact, memory, and turning point aspects of historical events. They avoid direct synonyms and are specific enough. A slightly more varied angle could improve it.
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- Minor thematic overlap observed
-
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
-
-The first misinformed clue ('celebrated with parades') has a weak connection to historical events as many things are celebrated, and it could easily point to a 'Space Mission' (e.g., a successful launch celebration) or even an 'Invention' (e.g., a public unveiling). The second clue ('team working together') is also quite general and could apply to all choices. The ambiguity is present but could be more potent.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-The fake clues are effective. 'High seas, pirates, treasure' strongly points to a narrative that is not a Historical Event, Space Mission, or Invention. 'Mystical realm, magic, mythical creatures' is clearly fantasy and points away from all factual choices.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ✅ PASS |
-
-**Issues Found:** None identified
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The informed clues provide solid hints without being too obvious. The misinformed clues offer some plausible but ultimately incorrect directions, and the fake clues effectively redirect away from the correct answer. This mix creates a balanced challenge.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 3.7/5
-
-**Pass/Fail:** ✅ PASS
-
-**Main Issues:**
-- Minor issues noted
-
-**Priority Actions:**
-1. Minor length adjustments
-2. Maintain misinformed clue quality
-3. Maintain current diversity
-
-**Overall Notes:**  
-The informed clues are strong and accurately describe historical events without using forbidden words. The misinformed clues could be slightly more subtly misleading, and the fake clues are well-crafted to divert players. Overall, a solid set of clues.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 10 | Round 2: Historical Event → Moon Landing 1969**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ✅ PASS | Clues within 15-20 words |
-
-**Compliance Rate:** 100% (15/15 clues)  
-**Outliers:** 0/15 clues failed  
-**Average Word Count:** 16.3 words
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 16.1 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -121,7 +23,7 @@ The informed clues are strong and accurately describe historical events without 
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-Clues are specific and avoid direct keywords or synonyms. They offer distinct angles on the event, covering the journey, broadcast, achievement, context, and technological aspects without being overly obvious. The clues directly relate to the 'Moon Landing 1969' while carefully avoiding 'Apollo 13' and 'The Wright Brothers'.
+The clues are highly specific and descriptive, avoiding any direct mention or synonyms of 'Documentary'. They focus on the core characteristics of factual presentation, real-world subjects, and educational intent. The clues offer diverse angles while consistently reinforcing the intended answer.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -133,7 +35,7 @@ Clues are specific and avoid direct keywords or synonyms. They offer distinct an
 ### Misinformed Clues: 4/5  
 **Very Good - Exceeds expectations**
 
-The misinformed clues successfully create ambiguity by referencing space travel and critical situations, which are themes present in 'Moon Landing 1969' but more strongly associated with 'Apollo 13'. They maintain a conceptual connection to the correct answer while subtly misdirecting towards an incorrect one, leading to productive confusion.
+The misinformed clues are good. The first clue, 'This form of media often showcases a person's life, chronicling their achievements and challenges over time,' plausibly describes a Biography while still having some overlap with a documentary about a person. The second clue, 'It frequently involves actors, set designs, and fictional stories to provide entertainment and dramatic experiences,' strongly points to a fictional narrative, which could be a distractor if the user incorrectly associates 'entertainment' with the other options.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -146,7 +48,7 @@ The misinformed clues successfully create ambiguity by referencing space travel 
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are highly effective. One clue strongly points to 'Apollo 13' with themes of rescue and critical malfunctions, while the other points to 'The Wright Brothers' with its focus on aviation and early flight. Neither has any genuine connection to 'Moon Landing 1969', ensuring they misdirect players to incorrect choices.
+The fake clues are excellent. They are completely unrelated to 'Documentary' and strongly and plausibly describe fictional narrative types, effectively misdirecting towards incorrect choices. 'This narrative genre typically involves fictional characters and settings, creating an entertaining experience for viewers' and 'Often written to explore characters' lives and the historical events that shaped their unique personalities and stories' are very strong indicators of fictional genres.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -170,9 +72,9 @@ The fake clues are highly effective. One clue strongly points to 'Apollo 13' wit
 
 | Score | Assessment |
 |-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
+| Rating | 2/5 - 🟢 Too Easy |
 
-**Reasoning:** The clues are well-balanced. The informed clues provide enough specific information to guide players towards the correct answer, while the misinformed and fake clues offer plausible but incorrect paths, requiring careful consideration and deduction. This creates a 'just right' level of challenge.
+**Reasoning:** The informed clues are very strong and specific, making it relatively easy to identify the correct answer. The misinformed clues offer some ambiguity, but the overwhelming strength of the informed clues likely makes the game less challenging than a '3'.
 
 ---
 
@@ -184,6 +86,7 @@ The fake clues are highly effective. One clue strongly points to 'Apollo 13' wit
 
 **Main Issues:**
 - Insufficient ambiguity in misinformed clues
+- Missing specificity in clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -191,7 +94,105 @@ The fake clues are highly effective. One clue strongly points to 'Apollo 13' wit
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clues are expertly crafted to meet all criteria. The informed clues are precise and descriptive without being too obvious. The misinformed clues create excellent ambiguity, and the fake clues effectively misdirect to the incorrect options. The difficulty is well-calibrated for a game setting.
+The informed clues are exceptionally well-crafted for specificity and descriptive power. The misinformed clues provide a decent level of ambiguity, and the fake clues are highly effective at misdirection. The difficulty is slightly lower than ideal due to the strength of the informed clues.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 10 | Round 2: Movie**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 17.4 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues are highly specific and descriptive, focusing on the themes of kindness, community, and children's education associated with the correct answer without using any of the answer words or obvious synonyms. They effectively build a clear picture of the subject.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
+
+The misinformed clues are moderately effective. The first clue uses 'visionary' and 'technology industry' which strongly points to Steve Jobs, but could be interpreted broadly. The second clue, 'comprehensive look at the universe', directly points to Cosmos. There's a slight overlap in 'exploring' and 'mysteries' which could be seen as very subtle misdirection, but they are generally well-separated.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+The fake clues are excellent. The first is a perfect description of Steve Jobs, and the second is a perfect description of Cosmos, with no overlap or relation to the correct answer. They are designed to strongly and plausibly describe the incorrect choices.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 2/5 - 🟢 Too Easy |
+
+**Reasoning:** The informed clues are so specific and well-crafted that they make the correct answer quite apparent. The misinformed and fake clues are distinct enough that they don't create significant confusion for someone who has read the informed clues carefully. This leans towards an easier difficulty.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.3/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Minor issues noted
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+The informed clues are exceptionally strong and specific, making the correct answer very clear. The misinformed clues offer reasonable misdirection without being overly confusing, and the fake clues are perfectly tailored to the incorrect answers. The game is well-constructed with clear distinctions between clue types.
 
 ---
 
@@ -200,5 +201,5 @@ The clues are expertly crafted to meet all criteria. The informed clues are prec
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 4/5 | 3/5 | 4/5 | 3/5 |
-| 2 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |
+| 1 | 100% | 5/5 | 4/5 | 5/5 | 2/5 |
+| 2 | 100% | 5/5 | 3/5 | 5/5 | 2/5 |

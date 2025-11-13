@@ -1,7 +1,7 @@
 # Analysis for Test 2
 
 # Game Clue Analysis Matrix
-**Test Run 2 | Round 1: Song → Bohemian Rhapsody - Queen**
+**Test Run 2 | Round 1: Movie**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.9 words
+**Average Word Count:** 16.8 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -23,7 +23,7 @@
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-The clues are specific and use varied language to describe the essence of a song without using the word 'song' or direct synonyms. They cover aspects like structure, purpose, and performance.
+All clues are highly specific to the concept of generating amusement through humor, avoiding any direct mention of the answer word or its direct synonyms. They cover various aspects like writing, character, timing, and the explicit goal of eliciting laughter.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -35,7 +35,7 @@ The clues are specific and use varied language to describe the essence of a song
 ### Misinformed Clues: 4/5  
 **Very Good - Exceeds expectations**
 
-The misinformed clues effectively use partial truths. 'Displayed on pages' and 'found in libraries or bookstores' strongly point to 'novel'. The clue about 'visual art form' and 'moving images' points to 'movie'. There's a subtle connection to 'song' through the idea of 'conveying ideas' and 'telling a story', but the primary misdirection is strong.
+The misinformed clues effectively blend elements that could *potentially* overlap with the correct answer (e.g., 'narrative' or 'captivate the audience') but strongly steer towards other genres ('intense human conflicts', 'explosions, chases, and intense combat sequences'). They create a good level of ambiguity.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ The misinformed clues effectively use partial truths. 'Displayed on pages' and '
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-These clues are excellent at misdirecting to the incorrect choices. The first clue perfectly describes a 'novel', and the second perfectly describes a 'movie'. Neither has any overlap with 'song'.
+The fake clues are excellent. They directly and plausibly describe 'Drama' and 'Action' respectively, using terms like 'serious topics', 'human nature', 'societal issues', 'fast-paced action', 'thrilling stunts', and 'intense fight scenes', while being completely unrelated to the 'Comedy' answer.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -72,113 +72,15 @@ These clues are excellent at misdirecting to the incorrect choices. The first cl
 
 | Score | Assessment |
 |-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
+| Rating | 2/5 - 🟢 Too Easy |
 
-**Reasoning:** The informed clues are clear enough to guide a player towards the correct answer with careful consideration, while the misinformed and fake clues provide sufficient misdirection to make it challenging.
+**Reasoning:** The informed clues are very strong and specific, making it relatively easy to identify the correct answer. The misinformed and fake clues are well-crafted but don't introduce enough confusion to significantly raise the difficulty.
 
 ---
 
 ## Overall Assessment
 
 **Overall Quality Score:** 4.7/5
-
-**Pass/Fail:** ✅ PASS
-
-**Main Issues:**
-- Minor issues noted
-
-**Priority Actions:**
-1. Minor length adjustments
-2. Maintain misinformed clue quality
-3. Maintain current diversity
-
-**Overall Notes:**  
-The set of clues is well-balanced. The informed clues are descriptive and avoid direct terminology. The misinformed clues offer plausible but ultimately incorrect interpretations, and the fake clues decisively lead players to the wrong answers without touching upon the correct one.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 2 | Round 2: Song → Bohemian Rhapsody - Queen**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ✅ PASS | Clues within 15-20 words |
-
-**Compliance Rate:** 100% (14/14 clues)  
-**Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.7 words
-
-**Assessment:** ✅ Acceptable - Most clues meet length requirements
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-The clues effectively describe the unique structure and musical elements of 'Bohemian Rhapsody' without using direct keywords. They highlight the operatic passages, hard rock climax, complex harmonies, varied styles, innovative structure, and blend of genres. The clues are specific enough to point strongly to the correct answer.
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- Minor thematic overlap observed
-
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
-
-The misinformed clues create some ambiguity. The first clue about 'treasure' is completely unrelated to any of the choices. The second clue about a 'repetitive chorus and simple verses' is misleading as 'Bohemian Rhapsody' is known for its complexity, not simplicity. However, 'Hotel California' and 'Yesterday' have more straightforward structures and choruses, so it could lead to confusion, but not strongly enough to be highly productive.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 5/5  
-**Excellent - Outstanding**
-
-The fake clues are effective. The first clue about 'unwavering love' and 'enduring romance' strongly points to 'Yesterday' by The Beatles, which is a well-known love song. The second clue about a 'high-energy anthem about never giving up' could plausibly apply to 'Hotel California' (though not its primary theme) or even 'Bohemian Rhapsody' in its rock sections, but it's more aligned with a general anthem feel that 'Yesterday' lacks. The key is that they steer away from the specific operatic and structural elements of 'Bohemian Rhapsody'.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ✅ PASS |
-
-**Issues Found:** None identified
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The informed clues are specific enough to guide players to the correct answer, but the complexity of the song's description prevents it from being too easy. The misinformed and fake clues add a layer of misdirection that requires careful consideration of the options.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 4.0/5
 
 **Pass/Fail:** ✅ PASS
 
@@ -191,7 +93,105 @@ The fake clues are effective. The first clue about 'unwavering love' and 'enduri
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are strong and descriptive, accurately capturing the essence of 'Bohemian Rhapsody' without revealing the answer. The fake clues effectively misdirect to other options, particularly 'Yesterday'. The misinformed clues could be slightly improved for more productive ambiguity, but overall, the set is well-balanced.
+Excellent set of clues. The informed clues are precise and descriptive without contamination. The misinformed clues create productive ambiguity, and the fake clues effectively misdirect to incorrect choices. The difficulty is appropriate for a game where the goal is to identify the correct answer from a set of choices.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 2 | Round 2: Movie**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 18.0 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues are highly specific to the plot of 'The Hangover' without using any forbidden words. They cover various aspects of the story, such as the amnesia, the bachelor party gone wrong, the missing friend, and the chaotic events that follow. They effectively isolate the correct answer.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
+
+The misinformed clues attempt to create ambiguity. The first clue, 'The story unfolds with a man's journey across America, facing challenges and experiencing life to the fullest,' has a *slight* overlap with the 'journey' aspect and could be vaguely associated with 'Forrest Gump.' The second clue, 'The narrative is about a lone hero fighting to save innocent people against a group of dangerous terrorists,' is a more direct misdirection towards 'Die Hard.' The ambiguity is present but not overwhelmingly strong.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+The fake clues are designed to strongly point to the incorrect answers. 'The story centers on a determined individual facing personal obstacles while navigating a journey of self-discovery' plausibly describes 'Forrest Gump.' 'The film showcases a story of courage and resilience as a man fights to survive in a hostile environment' strongly points to 'Die Hard.' They are effectively deceptive and avoid any connection to 'The Hangover.'
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 3/5 - 🟢 Just Right |
+
+**Reasoning:** The informed clues are very strong, making the correct answer quite clear. The misinformed clues offer some mild distraction, and the fake clues effectively misdirect to the other options. This combination creates a moderate level of difficulty, where a player needs to carefully distinguish the specific plot points.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.3/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Insufficient ambiguity in misinformed clues
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+The informed clues are excellent, providing clear and distinct descriptions of 'The Hangover' without any contamination. The misinformed clues offer a moderate level of ambiguity, and the fake clues are well-crafted to mislead towards 'Forrest Gump' and 'Die Hard.' The overall quality of the clues is high.
 
 ---
 
@@ -200,5 +200,5 @@ The informed clues are strong and descriptive, accurately capturing the essence 
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |
-| 2 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
+| 1 | 100% | 5/5 | 4/5 | 5/5 | 2/5 |
+| 2 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |

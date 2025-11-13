@@ -1,7 +1,7 @@
 # Analysis for Test 8
 
 # Game Clue Analysis Matrix
-**Test Run 8 | Round 1: Sport → Tennis**
+**Test Run 8 | Round 1: Movie**
 
 ---
 
@@ -12,105 +12,7 @@
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.1 words
-
-**Assessment:** ✅ Acceptable - Most clues meet length requirements
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-Clues are specific and descriptive, avoiding direct synonyms. They effectively point to 'Sport' without using the word or obvious variations.
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- Minor thematic overlap observed
-
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
-
-The 'Dancing' clue has a partial truth (physical exertion, performance) but misdirects with 'artistic movement and expression'. The 'Mountaineering' clue also shares 'endurance, strength, mental fortitude' but misdirects with 'against the environment'. The ambiguity is productive.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 5/5  
-**Excellent - Outstanding**
-
-The fake clues are highly effective. The first points strongly to 'Dancing' ('synchronized actions', 'artistic performance'). The second points strongly to 'Mountaineering' ('endurance, strength, mental fortitude against the environment'). Neither has any overlap with 'Sport'.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ✅ PASS |
-
-**Issues Found:** None identified
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The informed clues are clear but require some thought to connect to the broader concept of 'Sport'. The misinformed clues provide plausible but incorrect avenues, and the fake clues strongly pull towards the incorrect options, creating a balanced challenge.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 4.0/5
-
-**Pass/Fail:** ✅ PASS
-
-**Main Issues:**
-- Insufficient ambiguity in misinformed clues
-
-**Priority Actions:**
-1. Minor length adjustments
-2. Maintain misinformed clue quality
-3. Maintain current diversity
-
-**Overall Notes:**  
-The clues are well-crafted for the disinformer game. The informed clues are descriptive and avoid direct language. The misinformed clues offer a degree of overlap and ambiguity, while the fake clues effectively misdirect to specific incorrect choices. The difficulty level seems appropriate for a challenging game.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 8 | Round 2: Sport → Tennis**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ✅ PASS | Clues within 15-20 words |
-
-**Compliance Rate:** 100% (14/14 clues)  
-**Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.6 words
+**Average Word Count:** 15.9 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -121,7 +23,7 @@ The clues are well-crafted for the disinformer game. The informed clues are desc
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-The clues are specific and avoid any direct mention or close synonyms of 'Tennis'. They describe key aspects like equipment (rackets, ball, net), scoring, physical demands (agility, speed), competitive structure (championships, global competition), variations (surfaces), and strategic elements (topspin, slice). The diversity of angles is good.
+The clues are highly specific and descriptive, using precise language that avoids any direct mention or synonyms of 'Fantasy'. They effectively highlight core elements like magic, mythical creatures, supernatural occurrences, and non-earthly settings from multiple angles. The scoring is justified by the excellent specificity and avoidance of answer contamination.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -133,7 +35,7 @@ The clues are specific and avoid any direct mention or close synonyms of 'Tennis
 ### Misinformed Clues: 3/5  
 **Good - Meets requirements**
 
-The clue 'The game involves rapid movement across a rectangular field, with players attempting to score through goals' has a partial truth (rapid movement, rectangular field) but misdirects strongly towards American Football. The clue 'Participants race against each other on a track, trying to cross the finish line first, testing endurance' is less connected, but 'race' and 'endurance' could weakly link to the physical demands of tennis. The ambiguity is moderate.
+These clues successfully create ambiguity by touching on aspects that *could* be present in some fantasy narratives (exploring future societies, scientific ideas) while strongly pointing towards 'Sci-Fi'. They blend a partial truth with misdirection effectively, making them productive for confusion.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -146,7 +48,7 @@ The clue 'The game involves rapid movement across a rectangular field, with play
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are excellent. 'Athletes compete on ice, performing graceful movements and complex maneuvers to impress the judges and audience' perfectly describes Figure Skating. 'This sport involves teams running with an oval-shaped ball, aiming to advance it across the field' clearly points to American Football. Neither has any connection to Tennis.
+These clues are excellent misdirection. The first clue strongly points to 'Sci-Fi' with 'futuristic technology' and 'space exploration'. The second clue clearly points to 'Adventure' with 'adventurous voyages' and 'overcoming dangerous difficulties'. Neither clue has any plausible connection to 'Fantasy', making them highly effective at steering players away from the correct answer.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -172,7 +74,7 @@ The fake clues are excellent. 'Athletes compete on ice, performing graceful move
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are specific enough to guide someone familiar with sports, but not so obvious as to be immediately guessable without some thought. The misinformed clues provide plausible but ultimately incorrect paths, adding to the challenge without making it impossible. The fake clues are strong misdirections.
+**Reasoning:** The informed clues are strong enough to guide players towards the correct answer, but the misinformed and fake clues provide enough plausible misdirection, especially towards 'Sci-Fi' and 'Adventure', to make it challenging but not overwhelmingly difficult.
 
 ---
 
@@ -191,7 +93,105 @@ The fake clues are excellent. 'Athletes compete on ice, performing graceful move
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clues are well-crafted. The informed clues are specific and descriptive without being too direct. The misinformed clues offer some plausible overlap but are ultimately misleading. The fake clues are highly effective at pointing towards incorrect answers without touching on the correct one. The difficulty level feels appropriate for a disinformer game.
+The clues are well-crafted, with highly specific and non-contaminated informed clues. The misinformed and fake clues provide effective misdirection without being too obvious or too obscure. The difficulty level is appropriate for a game scenario.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 8 | Round 2: Movie**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 16.1 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues are highly specific and avoid any direct mention of the answer's title, characters, or key plot points. They focus on the core themes and journey, effectively describing the correct answer without giving it away easily. The variety of angles (quest, fellowship, hobbit, artifact, races, magic) is excellent.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 4/5  
+**Very Good - Exceeds expectations**
+
+These clues effectively blend elements that could *vaguely* relate to a journey or group with distinct misdirections. The 'space pirates' and 'galactic empire' clues strongly point to 'Star Wars' while the 'treasure lost long ago in space' has a very slight, very distant echo of a grand quest that *could* be stretched to the correct answer if someone wasn't paying close attention. The 'young man joining a rebellion' also points strongly away. The ambiguity is productive.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+These clues are excellent at misdirection. The 'space adventurers' clue is a perfect match for 'Star Wars' and completely unrelated to the correct answer. The 'swashbuckling adventure on the high seas' is a direct and strong descriptor for 'Pirates of the Caribbean' and has no connection to the correct answer.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 3/5 - 🟢 Just Right |
+
+**Reasoning:** The informed clues are specific enough to eventually lead to the correct answer for someone familiar with the story, but not so obvious as to be trivial. The misinformed and fake clues provide strong, well-placed distractions, making the overall puzzle challenging but solvable.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.7/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Insufficient ambiguity in misinformed clues
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+This is a well-constructed set of clues. The informed clues are precise and varied, the misinformed clues create good ambiguity, and the fake clues are highly effective at misdirecting to the incorrect choices. The difficulty level is appropriate.
 
 ---
 
@@ -200,5 +200,5 @@ The clues are well-crafted. The informed clues are specific and descriptive with
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
-| 2 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
+| 1 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
+| 2 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |

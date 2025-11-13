@@ -1,7 +1,7 @@
 # Analysis for Test 4
 
 # Game Clue Analysis Matrix
-**Test Run 4 | Round 1: TV Show → Breaking Bad**
+**Test Run 4 | Round 1: Movie**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.9 words
+**Average Word Count:** 15.9 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -20,10 +20,10 @@
 
 ## 2. Quality Scores (Rate 1-5)
 
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
 
-The clues are specific and avoid direct synonyms or the answer word. They describe the serialized nature and broadcast/streaming aspect well. Some clues could be slightly more distinct from each other.
+The clues are highly specific to the chosen answer without using any forbidden words. They cover various aspects like emotional depth, conflict, realism, and thematic exploration, providing distinct angles. No answer contamination detected.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -32,10 +32,10 @@ The clues are specific and avoid direct synonyms or the answer word. They descri
 ⚠️ Concerns:
 - Minor thematic overlap observed
 
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
+### Misinformed Clues: 4/5  
+**Very Good - Exceeds expectations**
 
-The misinformed clues attempt to create ambiguity by mentioning 'single sitting' and 'self-contained story,' which are characteristic of movies, but they don't strongly connect to the 'TV Show' answer itself beyond a general 'form of entertainment' or 'visual art' connection. The connection is a bit weak.
+The misinformed clues effectively blend a partial truth (humor, amusement) with misdirection towards 'Comedy'. The mention of 'lighthearted stories' and 'funny moments' creates ambiguity, making it a productive confusion as it doesn't directly contradict the core of 'Drama' but steers away from its serious and intense aspects.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ The misinformed clues attempt to create ambiguity by mentioning 'single sitting'
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are excellent. They clearly describe 'theater' and 'short videos/social media' which are distinct from 'TV Show' and have no overlap.
+The fake clues are excellent. They strongly and plausibly describe 'Romance' ('love, passion, emotional connections') and then pivot to 'Comedy' ('lighthearted narratives with humor, aiming to entertain and amuse'). They completely avoid any connection to 'Drama' and are highly deceptive.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,13 +74,111 @@ The fake clues are excellent. They clearly describe 'theater' and 'short videos/
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are clear enough to guide players towards the correct answer without being too obvious. The misinformed clues offer some plausible, but ultimately incorrect, paths. The fake clues effectively pull players away from the correct answer.
+**Reasoning:** The informed clues are strong and specific, making the correct answer identifiable. However, the misinformed clues create enough ambiguity to require careful consideration of the nuances between the genres, preventing it from being too easy. The fake clues are also well-crafted to misdirect effectively.
 
 ---
 
 ## Overall Assessment
 
-**Overall Quality Score:** 4.0/5
+**Overall Quality Score:** 4.7/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Insufficient ambiguity in misinformed clues
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+The clues are well-balanced. The informed clues are precise and avoid contamination. The misinformed clues introduce productive ambiguity by blending elements of the correct answer with another choice. The fake clues are highly deceptive and effectively target incorrect choices. The overall difficulty is moderate, making it a good challenge.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 4 | Round 2: Movie**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 17.2 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues are highly specific to the correct answer, avoiding any mention of the title or its direct synonyms. They focus on the core themes and plot elements without being overly vague. The variety of angles (hope, injustice, friendship, perseverance, freedom) is excellent.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 4/5  
+**Very Good - Exceeds expectations**
+
+These clues effectively blend a partial truth (struggle, repetition) with misdirection. The first clue hints at a dramatic narrative, potentially leading to 'Titanic' due to the sinking ship element, while the second points towards 'Groundhog Day' with its focus on repetition. The ambiguity is productive.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+These clues are very effective at misdirecting to the incorrect answers. The first strongly describes 'Titanic' with love, loss, and a ship disaster. The second clearly points to 'Groundhog Day' with love and repetition. They completely avoid any connection to the correct answer.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 3/5 - 🟢 Just Right |
+
+**Reasoning:** The informed clues are very strong, making the correct answer quite discoverable. However, the misinformed and fake clues provide enough plausible alternative directions to prevent it from being trivially easy. The player needs to carefully distinguish the subtle nuances.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.7/5
 
 **Pass/Fail:** ✅ PASS
 
@@ -93,106 +191,7 @@ The fake clues are excellent. They clearly describe 'theater' and 'short videos/
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are strong and descriptive. The fake clues are very effective at misdirecting. The misinformed clues could be slightly stronger in their connection to the correct answer while still misdirecting.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 4 | Round 2: TV Show → Breaking Bad**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ✅ PASS | Clues within 15-20 words |
-
-**Compliance Rate:** 100% (14/14 clues)  
-**Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.0 words
-
-**Assessment:** ✅ Acceptable - Most clues meet length requirements
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 5/5  
-**Excellent - Outstanding**
-
-The clues are highly specific to Breaking Bad, detailing the protagonist's transformation, setting, moral themes, and descent into crime. They avoid using direct keywords and offer a comprehensive picture of the show's essence.
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- Minor thematic overlap observed
-
-### Misinformed Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-The misinformed clues create ambiguity by touching on common themes like 'friends navigating college life' (though not directly applicable, could be a vague association for some shows) and 'lawyer solving legal cases' (a partial nod to Saul Goodman's role). This provides a plausible but incorrect direction.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 5/5  
-**Excellent - Outstanding**
-
-The fake clues are excellent misdirections. 'A group of friends navigates the challenges of high school and adolescence' strongly points to a generic teen drama, and 'A family works together to overcome obstacles and build a successful business' could easily be misinterpreted as a show like Ozark or a family drama, completely bypassing the core elements of Breaking Bad.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ✅ PASS |
-
-**Issues Found:** None identified
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The informed clues are specific enough to strongly suggest Breaking Bad, while the misinformed and fake clues provide plausible alternative interpretations that require careful consideration, making it a balanced challenge.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 4.7/5
-
-**Pass/Fail:** ✅ PASS
-
-**Main Issues:**
-- Insufficient ambiguity in misinformed clues
-- Missing specificity in clues
-
-**Priority Actions:**
-1. Minor length adjustments
-2. Maintain misinformed clue quality
-3. Maintain current diversity
-
-**Overall Notes:**  
-The set of clues effectively balances specificity for the correct answer with believable misdirection for incorrect choices. The informed clues are excellent, and the fake clues strongly target the incorrect options. The misinformed clues offer a good level of ambiguity.
+The clues are well-crafted for the disinformer game. The informed clues are specific and thematically rich, while the misinformed and fake clues offer convincing misdirection to the other choices. The difficulty level feels appropriate.
 
 ---
 
@@ -201,5 +200,5 @@ The set of clues effectively balances specificity for the correct answer with be
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 4/5 | 3/5 | 5/5 | 3/5 |
+| 1 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |
 | 2 | 100% | 5/5 | 4/5 | 5/5 | 3/5 |
