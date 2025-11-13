@@ -1,238 +1,6 @@
 [
   {
-    "name": "Entertainment",
-    "game": null,
-    "games": [
-      {
-        "gameName": "movie - Star Wars: Episode I - The Phantom Menace",
-        "rounds": [
-          {
-            "answer": "movie",
-            "informed_clues": [
-              "A medium that uses visual and auditory elements to tell stories.",
-              "Often includes special effects to create imaginary worlds.",
-              "Can be watched on screens in theaters or at home.",
-              "Usually has a runtime of around two hours.",
-              "Involves actors performing roles.",
-              "Sound design and music are crucial elements.",
-              "Plots can be original or based on existing material.",
-              "Edits scenes to control the pacing and tone.",
-              "Can be part of a series or a standalone story."
-            ],
-            "misinformed_clues": [
-              "It's a form of storytelling that can be experienced alone or with others.",
-              "Can include action, drama, or comedy genres."
-            ],
-            "extra_clues": [
-              "It's often distributed on reels of film or digital files."
-            ],
-            "fake_clues": [
-              "It's typically read silently.",
-              "It's usually experienced live in a theater."
-            ],
-            "choices": [
-              "movie",
-              "book",
-              "play"
-            ],
-            "disinformer_instructions": [
-              "Encourage focusing on the collaborative storytelling aspect.",
-              "Suggest considering the importance of visual elements.",
-              "Mention the role of sound in enhancing the experience."
-            ]
-          },
-          {
-            "answer": "Star Wars: Episode I - The Phantom Menace",
-            "informed_clues": [
-              "Features a young protagonist with a special connection to energy.",
-              "Involves a political dispute in a galactic government.",
-              "Includes a race involving high-speed vehicles.",
-              "A group of warriors with energy swords and robes.",
-              "A queen with a dual identity.",
-              "A comedic relief character of a certain species.",
-              "Mentor figure with a long-standing conflict.",
-              "Involves a trade federation and blockades.",
-              "Introduces a young boy with a significant destiny."
-            ],
-            "misinformed_clues": [
-              "Involves a hidden royal identity.",
-              "Features a council of wise leaders."
-            ],
-            "extra_clues": [
-              "Explores the concept of prophecy and destiny."
-            ],
-            "fake_clues": [
-              "Focuses on a single planet's ecosystem.",
-              "Revolves around a romantic subplot."
-            ],
-            "choices": [
-              "Star Wars: Episode I - The Phantom Menace",
-              "The Matrix",
-              "Inception"
-            ],
-            "disinformer_instructions": [
-              "Highlight the political elements to divert from the main plot.",
-              "Emphasize the racing scenes as a key focus.",
-              "Focus discussions on the queen's dual role."
-            ]
-          }
-        ]
-      },
-      {
-        "gameName": "song - Love Story by Taylor Swift",
-        "rounds": [
-          {
-            "answer": "song",
-            "informed_clues": [
-              "Uses melody and rhythm to convey emotion.",
-              "Often played on radios or digital platforms.",
-              "Can be sung along to by listeners.",
-              "Usually lasts between three to five minutes.",
-              "Can express personal feelings or narratives.",
-              "Involves instruments or vocals.",
-              "Can be part of an album or a single release.",
-              "Edited to balance verses and choruses.",
-              "Can be performed live or recorded."
-            ],
-            "misinformed_clues": [
-              "It's a way to express emotions through words.",
-              "Can be enjoyed in various settings alone or with others."
-            ],
-            "extra_clues": [
-              "It often follows a verse-chorus structure."
-            ],
-            "fake_clues": [
-              "It's typically written in prose form.",
-              "It's performed live without prior preparation."
-            ],
-            "choices": [
-              "song",
-              "poem",
-              "book"
-            ],
-            "disinformer_instructions": [
-              "Encourage discussion on emotional expression.",
-              "Suggest considering the structure of verses and choruses.",
-              "Mention the role of instruments in enhancing mood."
-            ]
-          },
-          {
-            "answer": "Love Story by Taylor Swift",
-            "informed_clues": [
-              "References a classic tale of star-crossed lovers.",
-              "Uses a soft bridge to build emotional tension.",
-              "Involves a key change for a powerful finish.",
-              "Narrates a romantic journey from youth to commitment.",
-              "Includes a secret meeting scenario.",
-              "The chorus is catchy and memorable.",
-              "Mentions a heroic rescue in the narrative.",
-              "Features a romantic duet in its composition.",
-              "The music video has a fairytale theme."
-            ],
-            "misinformed_clues": [
-              "Involves a midnight meeting in secret.",
-              "References a historical fictional couple."
-            ],
-            "extra_clues": [
-              "The song's structure builds from soft to powerful."
-            ],
-            "fake_clues": [
-              "It's about a breakup rather than a union.",
-              "It's performed in a minor key throughout."
-            ],
-            "choices": [
-              "Love Story by Taylor Swift",
-              "A Thousand Years by Christina Perri",
-              "I Will Always Love You by Whitney Houston"
-            ],
-            "disinformer_instructions": [
-              "Emphasize the fairytale elements to mislead.",
-              "Highlight the secret meeting as a key point.",
-              "Focus on the duet aspect to confuse with other songs."
-            ]
-          }
-        ]
-      },
-      {
-        "gameName": "tv series - Avatar: The Last Airbender",
-        "rounds": [
-          {
-            "answer": "tv series",
-            "informed_clues": [
-              "Consists of multiple episodes telling a continuous story.",
-              "Broadcast on television or streamed online.",
-              "Each episode often ends with a cliffhanger.",
-              "Can be watched in seasons with breaks in between.",
-              "Involves recurring characters and story arcs.",
-              "Soundtracks and visuals enhance the narrative.",
-              "Can be fictional or based on real events.",
-              "Edited into episodes of set lengths.",
-              "Can be watched in binge or weekly intervals."
-            ],
-            "misinformed_clues": [
-              "It's a serialized form of storytelling.",
-              "Can be enjoyed in various settings alone or with others."
-            ],
-            "extra_clues": [
-              "It often includes opening and ending credits."
-            ],
-            "fake_clues": [
-              "It's typically a single, long film.",
-              "It's performed live without prior recording."
-            ],
-            "choices": [
-              "tv series",
-              "movie",
-              "book"
-            ],
-            "disinformer_instructions": [
-              "Encourage discussion on the episodic structure.",
-              "Suggest considering the role of cliffhangers.",
-              "Mention the importance of recurring characters."
-            ]
-          },
-          {
-            "answer": "Avatar: The Last Airbender",
-            "informed_clues": [
-              "Features a young boy who can manipulate elements.",
-              "Set in a world divided into four nations.",
-              "Involves a group of elemental warriors.",
-              "A young boy frozen in an iceberg awakens.",
-              "A flying creature serves as a main character's mount.",
-              "Involves a journey to master four elements.",
-              "A bald-headed mentor with a staff.",
-              "A princess from a water tribe.",
-              "Involves a conflict with a fire nation."
-            ],
-            "misinformed_clues": [
-              "Involves a journey to master magical abilities.",
-              "Features a group of heroes on a quest."
-            ],
-            "extra_clues": [
-              "Explores themes of balance and harmony."
-            ],
-            "fake_clues": [
-              "Focuses on a single city's politics.",
-              "Revolve around a romantic subplot."
-            ],
-            "choices": [
-              "Avatar: The Last Airbender",
-              "The Legend of Korra",
-              "Dragon Ball Z"
-            ],
-            "disinformer_instructions": [
-              "Highlight the elemental manipulation to confuse with other shows.",
-              "Emphasize the journey aspect to mislead.",
-              "Focus on the group of heroes to divert attention."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Animals",
-    "game": null,
     "games": [
       {
         "gameName": "big cats - leopard",
@@ -459,11 +227,242 @@
           }
         ]
       }
-    ]
+    ],
+    "imageUrl": "assets/images/categories/nature.png"
+  },
+  {
+    "name": "Entertainment",
+    "games": [
+      {
+        "gameName": "movie - Star Wars: Episode I - The Phantom Menace",
+        "rounds": [
+          {
+            "answer": "movie",
+            "informed_clues": [
+              "A medium that uses visual and auditory elements to tell stories.",
+              "Often includes special effects to create imaginary worlds.",
+              "Can be watched on screens in theaters or at home.",
+              "Usually has a runtime of around two hours.",
+              "Involves actors performing roles.",
+              "Sound design and music are crucial elements.",
+              "Plots can be original or based on existing material.",
+              "Edits scenes to control the pacing and tone.",
+              "Can be part of a series or a standalone story."
+            ],
+            "misinformed_clues": [
+              "It's a form of storytelling that can be experienced alone or with others.",
+              "Can include action, drama, or comedy genres."
+            ],
+            "extra_clues": [
+              "It's often distributed on reels of film or digital files."
+            ],
+            "fake_clues": [
+              "It's typically read silently.",
+              "It's usually experienced live in a theater."
+            ],
+            "choices": [
+              "movie",
+              "book",
+              "play"
+            ],
+            "disinformer_instructions": [
+              "Encourage focusing on the collaborative storytelling aspect.",
+              "Suggest considering the importance of visual elements.",
+              "Mention the role of sound in enhancing the experience."
+            ]
+          },
+          {
+            "answer": "Star Wars: Episode I - The Phantom Menace",
+            "informed_clues": [
+              "Features a young protagonist with a special connection to energy.",
+              "Involves a political dispute in a galactic government.",
+              "Includes a race involving high-speed vehicles.",
+              "A group of warriors with energy swords and robes.",
+              "A queen with a dual identity.",
+              "A comedic relief character of a certain species.",
+              "Mentor figure with a long-standing conflict.",
+              "Involves a trade federation and blockades.",
+              "Introduces a young boy with a significant destiny."
+            ],
+            "misinformed_clues": [
+              "Involves a hidden royal identity.",
+              "Features a council of wise leaders."
+            ],
+            "extra_clues": [
+              "Explores the concept of prophecy and destiny."
+            ],
+            "fake_clues": [
+              "Focuses on a single planet's ecosystem.",
+              "Revolves around a romantic subplot."
+            ],
+            "choices": [
+              "Star Wars: Episode I - The Phantom Menace",
+              "The Matrix",
+              "Inception"
+            ],
+            "disinformer_instructions": [
+              "Highlight the political elements to divert from the main plot.",
+              "Emphasize the racing scenes as a key focus.",
+              "Focus discussions on the queen's dual role."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "song - Love Story by Taylor Swift",
+        "rounds": [
+          {
+            "answer": "song",
+            "informed_clues": [
+              "Uses melody and rhythm to convey emotion.",
+              "Often played on radios or digital platforms.",
+              "Can be sung along to by listeners.",
+              "Usually lasts between three to five minutes.",
+              "Can express personal feelings or narratives.",
+              "Involves instruments or vocals.",
+              "Can be part of an album or a single release.",
+              "Edited to balance verses and choruses.",
+              "Can be performed live or recorded."
+            ],
+            "misinformed_clues": [
+              "It's a way to express emotions through words.",
+              "Can be enjoyed in various settings alone or with others."
+            ],
+            "extra_clues": [
+              "It often follows a verse-chorus structure."
+            ],
+            "fake_clues": [
+              "It's typically written in prose form.",
+              "It's performed live without prior preparation."
+            ],
+            "choices": [
+              "song",
+              "poem",
+              "book"
+            ],
+            "disinformer_instructions": [
+              "Encourage discussion on emotional expression.",
+              "Suggest considering the structure of verses and choruses.",
+              "Mention the role of instruments in enhancing mood."
+            ]
+          },
+          {
+            "answer": "Love Story by Taylor Swift",
+            "informed_clues": [
+              "References a classic tale of star-crossed lovers.",
+              "Uses a soft bridge to build emotional tension.",
+              "Involves a key change for a powerful finish.",
+              "Narrates a romantic journey from youth to commitment.",
+              "Includes a secret meeting scenario.",
+              "The chorus is catchy and memorable.",
+              "Mentions a heroic rescue in the narrative.",
+              "Features a romantic duet in its composition.",
+              "The music video has a fairytale theme."
+            ],
+            "misinformed_clues": [
+              "Involves a midnight meeting in secret.",
+              "References a historical fictional couple."
+            ],
+            "extra_clues": [
+              "The song's structure builds from soft to powerful."
+            ],
+            "fake_clues": [
+              "It's about a breakup rather than a union.",
+              "It's performed in a minor key throughout."
+            ],
+            "choices": [
+              "Love Story by Taylor Swift",
+              "A Thousand Years by Christina Perri",
+              "I Will Always Love You by Whitney Houston"
+            ],
+            "disinformer_instructions": [
+              "Emphasize the fairytale elements to mislead.",
+              "Highlight the secret meeting as a key point.",
+              "Focus on the duet aspect to confuse with other songs."
+            ]
+          }
+        ]
+      },
+      {
+        "gameName": "tv series - Avatar: The Last Airbender",
+        "rounds": [
+          {
+            "answer": "tv series",
+            "informed_clues": [
+              "Consists of multiple episodes telling a continuous story.",
+              "Broadcast on television or streamed online.",
+              "Each episode often ends with a cliffhanger.",
+              "Can be watched in seasons with breaks in between.",
+              "Involves recurring characters and story arcs.",
+              "Soundtracks and visuals enhance the narrative.",
+              "Can be fictional or based on real events.",
+              "Edited into episodes of set lengths.",
+              "Can be watched in binge or weekly intervals."
+            ],
+            "misinformed_clues": [
+              "It's a serialized form of storytelling.",
+              "Can be enjoyed in various settings alone or with others."
+            ],
+            "extra_clues": [
+              "It often includes opening and ending credits."
+            ],
+            "fake_clues": [
+              "It's typically a single, long film.",
+              "It's performed live without prior recording."
+            ],
+            "choices": [
+              "tv series",
+              "movie",
+              "book"
+            ],
+            "disinformer_instructions": [
+              "Encourage discussion on the episodic structure.",
+              "Suggest considering the role of cliffhangers.",
+              "Mention the importance of recurring characters."
+            ]
+          },
+          {
+            "answer": "Avatar: The Last Airbender",
+            "informed_clues": [
+              "Features a young boy who can manipulate elements.",
+              "Set in a world divided into four nations.",
+              "Involves a group of elemental warriors.",
+              "A young boy frozen in an iceberg awakens.",
+              "A flying creature serves as a main character's mount.",
+              "Involves a journey to master four elements.",
+              "A bald-headed mentor with a staff.",
+              "A princess from a water tribe.",
+              "Involves a conflict with a fire nation."
+            ],
+            "misinformed_clues": [
+              "Involves a journey to master magical abilities.",
+              "Features a group of heroes on a quest."
+            ],
+            "extra_clues": [
+              "Explores themes of balance and harmony."
+            ],
+            "fake_clues": [
+              "Focuses on a single city's politics.",
+              "Revolve around a romantic subplot."
+            ],
+            "choices": [
+              "Avatar: The Last Airbender",
+              "The Legend of Korra",
+              "Dragon Ball Z"
+            ],
+            "disinformer_instructions": [
+              "Highlight the elemental manipulation to confuse with other shows.",
+              "Emphasize the journey aspect to mislead.",
+              "Focus on the group of heroes to divert attention."
+            ]
+          }
+        ]
+      }
+    ],
+    "imageUrl": "assets/images/categories/entertainment.png"
   },
   {
     "name": "random",
-    "game": null,
     "games": [
       {
         "gameName": "string instruments - violin",
@@ -690,6 +689,7 @@
           }
         ]
       }
-    ]
+    ],
+    "imageUrl": "assets/images/categories/random.png"
   }
 ]
