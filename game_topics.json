@@ -10,9 +10,9 @@
             ],
             "r2_answer": "The Matrix",
             "r2_choices": [
-                "The Conjuring",
+                "Blade Runner",
                 "The Matrix",
-                "The Lord of the Rings"
+                "Dune"
             ]
         },
         {
@@ -25,9 +25,9 @@
             ],
             "r2_answer": "The Hangover",
             "r2_choices": [
-                "Die Hard",
+                "Superbad",
                 "The Hangover",
-                "Forrest Gump"
+                "Bridesmaids"
             ]
         },
         {
@@ -40,9 +40,9 @@
             ],
             "r2_answer": "Mad Max: Fury Road",
             "r2_choices": [
-                "Psycho",
+                "John Wick",
                 "Mad Max: Fury Road",
-                "Indiana Jones"
+                "Mission Impossible"
             ]
         },
         {
@@ -55,9 +55,9 @@
             ],
             "r2_answer": "The Shawshank Redemption",
             "r2_choices": [
-                "Titanic",
+                "12 Angry Men",
                 "The Shawshank Redemption",
-                "Groundhog Day"
+                "The Godfather"
             ]
         },
         {
@@ -70,9 +70,9 @@
             ],
             "r2_answer": "The Shining",
             "r2_choices": [
-                "Inception",
+                "Poltergeist",
                 "The Shining",
-                "Alien"
+                "Insidious"
             ]
         },
         {
@@ -162,9 +162,9 @@
             ],
             "r2_answer": "Bohemian Rhapsody - Queen",
             "r2_choices": [
-                "Billie Jean - Michael Jackson",
+                "Stairway to Heaven - Led Zeppelin",
                 "Bohemian Rhapsody - Queen",
-                "Für Elise - Beethoven"
+                "Hotel California - Eagles"
             ]
         },
         {
@@ -177,9 +177,9 @@
             ],
             "r2_answer": "Blinding Lights - The Weeknd",
             "r2_choices": [
-                "Stairway to Heaven - Led Zeppelin",
+                "Bad Guy - Billie Eilish",
                 "Blinding Lights - The Weeknd",
-                "Uptown Funk - Mark Ronson ft. Bruno Mars"
+                "Shape of You - Ed Sheeran"
             ]
         },
         {
@@ -192,9 +192,9 @@
             ],
             "r2_answer": "Lose Yourself - Eminem",
             "r2_choices": [
-                "Respect - Aretha Franklin",
+                "In Da Club - 50 Cent",
                 "Lose Yourself - Eminem",
-                "Crazy in Love - Beyoncé"
+                "Jumpman - Drake & Future"
             ]
         },
         {
@@ -207,9 +207,9 @@
             ],
             "r2_answer": "What a Wonderful World - Louis Armstrong",
             "r2_choices": [
-                "The Thrill Is Gone - B.B. King",
+                "Take Five - Dave Brubeck",
                 "What a Wonderful World - Louis Armstrong",
-                "Sing, Sing, Sing - Benny Goodman"
+                "Autumn Leaves - Bill Evans"
             ]
         },
         {
@@ -237,9 +237,9 @@
             ],
             "r2_answer": "Friends in Low Places - Garth Brooks",
             "r2_choices": [
-                "Blowin' in the Wind - Bob Dylan",
+                "Jolene - Dolly Parton",
                 "Friends in Low Places - Garth Brooks",
-                "Wagon Wheel - Darius Rucker"
+                "Take Me Home, Country Roads - John Denver"
             ]
         },
         {
@@ -252,9 +252,9 @@
             ],
             "r2_answer": "Cross Road Blues - Robert Johnson",
             "r2_choices": [
-                "Back in Black - AC/DC",
+                "The Lemon Song - Led Zeppelin",
                 "Cross Road Blues - Robert Johnson",
-                "Feeling Good - Nina Simone"
+                "Stormy Monday - T-Bone Walker"
             ]
         },
         {
@@ -278,7 +278,7 @@
             "r1_choices": [
                 "Reggae",
                 "Ska",
-                "World Music"
+                "Heavy metal"
             ],
             "r2_answer": "One Love - Bob Marley",
             "r2_choices": [
@@ -292,8 +292,8 @@
             "r1_answer": "Folk",
             "r1_choices": [
                 "Folk",
-                "Acoustic",
-                "Singer-Songwriter"
+                "Jazz",
+                "Blues"
             ],
             "r2_answer": "Blowin' in the Wind - Bob Dylan",
             "r2_choices": [
@@ -359,9 +359,9 @@
             ],
             "r2_answer": "1984",
             "r2_choices": [
-                "The Lord of the Rings",
+                "Brave New World",
                 "1984",
-                "The Hunger Games"
+                "Foundation"
             ]
         },
         {
@@ -389,9 +389,9 @@
             ],
             "r2_answer": "The Book Thief",
             "r2_choices": [
-                "Steve Jobs",
+                "All the Light We Cannot See",
                 "The Book Thief",
-                "The Pillars of the Earth"
+                "The Nightingale"
             ]
         },
         {
@@ -434,9 +434,9 @@
             ],
             "r2_answer": "Born a Crime",
             "r2_choices": [
-                "Atomic Habits",
+                "I Am Malala",
                 "Born a Crime",
-                "Educated"
+                "When Breath Becomes Air"
             ]
         },
         {
@@ -455,14 +455,14 @@
             ]
         }
     ],
-    "TV Show": [
+    "Film/Videography": [
         {
             "game_number": 1,
-            "r1_answer": "Drama",
+            "r1_answer": "TV Show",
             "r1_choices": [
-                "Drama",
-                "Crime",
-                "Mystery"
+                "TV Show",
+                "Sitcom",
+                "Mini-Series"
             ],
             "r2_answer": "Breaking Bad",
             "r2_choices": [
@@ -473,11 +473,11 @@
         },
         {
             "game_number": 2,
-            "r1_answer": "Comedy",
+            "r1_answer": "Sitcom",
             "r1_choices": [
-                "Comedy",
                 "Sitcom",
-                "Sketch"
+                "Drama",
+                "Western"
             ],
             "r2_answer": "The Office",
             "r2_choices": [
@@ -488,41 +488,41 @@
         },
         {
             "game_number": 3,
-            "r1_answer": "Sci-Fi",
+            "r1_answer": "Film Technique",
             "r1_choices": [
-                "Sci-Fi",
-                "Fantasy",
-                "Adventure"
+                "Cinematography",
+                "Editing",
+                "Sound Design"
             ],
-            "r2_answer": "Stranger Things",
+            "r2_answer": "Long Take",
             "r2_choices": [
-                "Game of Thrones",
-                "Stranger Things",
-                "Doctor Who"
+                "Long Take",
+                "Montage",
+                "Foley"
             ]
         },
         {
             "game_number": 4,
-            "r1_answer": "Reality",
+            "r1_answer": "Reality Show",
             "r1_choices": [
-                "Reality",
-                "Competition",
-                "Documentary"
+                "Reality Show",
+                "Dating Show",
+                "Talent Show"
             ],
-            "r2_answer": "The Bachelor",
+            "r2_answer": "Physical: 100",
             "r2_choices": [
                 "Survivor",
-                "The Bachelor",
-                "Planet Earth"
+                "Man vs. Wild",
+                "Physical: 100"
             ]
         },
         {
             "game_number": 5,
-            "r1_answer": "Animation",
+            "r1_answer": "Cartoon",
             "r1_choices": [
-                "Animation",
+                "Anime",
                 "Cartoon",
-                "Family"
+                "Stop-Motion"
             ],
             "r2_answer": "Rick and Morty",
             "r2_choices": [
@@ -533,56 +533,56 @@
         },
         {
             "game_number": 6,
-            "r1_answer": "Crime",
+            "r1_answer": "Talk Show",
             "r1_choices": [
-                "Crime",
-                "Drama",
-                "Investigation"
+                "Talk Show",
+                "Game show",
+                "Cooking Show"
             ],
-            "r2_answer": "Mindhunter",
+            "r2_answer": "The Tonight Show Starring Jimmy Fallon",
             "r2_choices": [
-                "Breaking Bad",
-                "Mindhunter",
-                "Law & Order"
+                "The Ellen Show",
+                "The Tonight Show Starring Jimmy Fallon",
+                "Who Wants to Be a Millionaire?"
             ]
         },
         {
             "game_number": 7,
-            "r1_answer": "Fantasy",
+            "r1_answer": "Game Show",
             "r1_choices": [
-                "Fantasy",
-                "Epic",
-                "Adventure"
+                "Game Show",
+                "Quiz",
+                "Panel Game"
             ],
-            "r2_answer": "Game of Thrones",
+            "r2_answer": "Jeopardy!",
             "r2_choices": [
-                "The Witcher",
-                "Game of Thrones",
-                "Lord of the Rings"
+                "Jeopardy!",
+                "Wheel of Fortune",
+                "Family Feud"
             ]
         },
         {
             "game_number": 8,
-            "r1_answer": "Documentary",
+            "r1_answer": "Documentary Series",
             "r1_choices": [
-                "Documentary",
-                "Educational",
-                "Nature"
+                "Documentary Series",
+                "Comedy",
+                "Reality Show"
             ],
             "r2_answer": "Planet Earth",
             "r2_choices": [
-                "Cosmos",
+                "The Grand Tour",
                 "Planet Earth",
-                "The Blue Planet"
+                "Anthony Bourdain: Parts Unknown"
             ]
         },
         {
             "game_number": 9,
-            "r1_answer": "Kids",
+            "r1_answer": "Kids Show",
             "r1_choices": [
-                "Kids",
+                "Kids Show",
                 "Educational",
-                "Animation"
+                "Puppet Show"
             ],
             "r2_answer": "Sesame Street",
             "r2_choices": [
@@ -593,11 +593,11 @@
         },
         {
             "game_number": 10,
-            "r1_answer": "Mystery",
+            "r1_answer": "detective fiction",
             "r1_choices": [
-                "Mystery",
                 "Thriller",
-                "Suspense"
+                "detective fiction",
+                "Horror"
             ],
             "r2_answer": "True Detective",
             "r2_choices": [
@@ -618,23 +618,23 @@
             ],
             "r2_answer": "The Legend of Zelda: Breath of the Wild",
             "r2_choices": [
-                "Uncharted",
+                "Elden Ring",
                 "The Legend of Zelda: Breath of the Wild",
-                "Civilization"
+                "Baldur's Gate 3"
             ]
         },
         {
             "game_number": 2,
-            "r1_answer": "Action",
+            "r1_answer": "Shooter",
             "r1_choices": [
-                "Action",
+                "Fighting",
                 "Shooter",
                 "Platformer"
             ],
-            "r2_answer": "God of War",
+            "r2_answer": "Fortnite",
             "r2_choices": [
-                "Super Mario",
-                "God of War",
+                "PUBG",
+                "Call of Duty",
                 "Fortnite"
             ]
         },
@@ -648,9 +648,9 @@
             ],
             "r2_answer": "Civilization VI",
             "r2_choices": [
-                "The Sims",
+                "XCOM 2",
                 "Civilization VI",
-                "Portal"
+                "StarCraft"
             ]
         },
         {
@@ -658,14 +658,14 @@
             "r1_answer": "Shooter",
             "r1_choices": [
                 "Shooter",
-                "Action",
-                "Multiplayer"
+                "Fighting",
+                "Sports"
             ],
-            "r2_answer": "Halo",
+            "r2_answer": "Call of Duty",
             "r2_choices": [
+                "Destiny 2",
                 "Call of Duty",
-                "Halo",
-                "Overwatch"
+                "Halo"
             ]
         },
         {
@@ -674,7 +674,7 @@
             "r1_choices": [
                 "Adventure",
                 "RPG",
-                "Exploration"
+                "Action"
             ],
             "r2_answer": "The Last of Us",
             "r2_choices": [
@@ -688,7 +688,7 @@
             "r1_answer": "Puzzle",
             "r1_choices": [
                 "Puzzle",
-                "Logic",
+                "Strategy",
                 "Platformer"
             ],
             "r2_answer": "Portal",
@@ -703,7 +703,7 @@
             "r1_answer": "Simulation",
             "r1_choices": [
                 "Simulation",
-                "Management",
+                "Sandbox",
                 "Racing"
             ],
             "r2_answer": "The Sims 4",
@@ -723,39 +723,39 @@
             ],
             "r2_answer": "Mario Kart",
             "r2_choices": [
-                "FIFA",
+                "Forza Horizon",
                 "Mario Kart",
                 "Need for Speed"
             ]
         },
         {
             "game_number": 9,
-            "r1_answer": "Sports",
+            "r1_answer": "Sandbox",
             "r1_choices": [
-                "Sports",
+                "Sandbox",
                 "Simulation",
-                "Multiplayer"
+                "Survival"
             ],
-            "r2_answer": "FIFA 22",
+            "r2_answer": "Minecraft",
             "r2_choices": [
-                "NBA 2K",
-                "FIFA 22",
-                "WWE"
+                "Minecraft",
+                "Terraria",
+                "Roblox"
             ]
         },
         {
             "game_number": 10,
-            "r1_answer": "Multiplayer",
+            "r1_answer": "Survival",
             "r1_choices": [
-                "Multiplayer",
-                "Co-op",
-                "Battle Royale"
+                "Survival",
+                "Adventure",
+                "Action"
             ],
-            "r2_answer": "Among Us",
+            "r2_answer": "ARK: Survival Evolved",
             "r2_choices": [
-                "Fortnite",
-                "Among Us",
-                "Overwatch"
+                "Rust",
+                "ARK: Survival Evolved",
+                "The Forest"
             ]
         }
     ],
@@ -781,7 +781,7 @@
             "r1_choices": [
                 "Mexican",
                 "Latin American",
-                "Spicy"
+                "British"
             ],
             "r2_answer": "Tacos",
             "r2_choices": [
@@ -795,14 +795,14 @@
             "r1_answer": "Chinese",
             "r1_choices": [
                 "Chinese",
-                "Asian",
-                "Stir-Fry"
+                "Japanese",
+                "Vietnamese"
             ],
             "r2_answer": "Dim Sum",
             "r2_choices": [
-                "Sushi",
+                "Dumplings",
                 "Dim Sum",
-                "Pad Thai"
+                "Peking Duck"
             ]
         },
         {
@@ -810,14 +810,14 @@
             "r1_answer": "Japanese",
             "r1_choices": [
                 "Japanese",
-                "Asian",
-                "Seafood"
+                "Korean",
+                "Indian"
             ],
             "r2_answer": "Sushi",
             "r2_choices": [
-                "Dim Sum",
                 "Sushi",
-                "Kimchi"
+                "Tempura",
+                "Ramen"
             ]
         },
         {
@@ -825,29 +825,29 @@
             "r1_answer": "Indian",
             "r1_choices": [
                 "Indian",
-                "Spicy",
-                "Curry"
+                "African",
+                "Middle Eastern"
             ],
             "r2_answer": "Butter Chicken",
             "r2_choices": [
-                "Falafel",
+                "Chicken parmesan",
                 "Butter Chicken",
                 "Jerk Chicken"
             ]
         },
         {
             "game_number": 6,
-            "r1_answer": "French",
+            "r1_answer": "Main Course",
             "r1_choices": [
-                "French",
-                "European",
+                "Appetizer",
+                "Main Course",
                 "Dessert"
             ],
-            "r2_answer": "Croissant",
+            "r2_answer": "Beef Wellington",
             "r2_choices": [
-                "Pizza Margherita",
-                "Croissant",
-                "Tiramisu"
+                "Beef Wellington",
+                "Lasagna",
+                "Spaghetti Carbonara"
             ]
         },
         {
@@ -855,14 +855,14 @@
             "r1_answer": "American",
             "r1_choices": [
                 "American",
-                "Fast Food",
-                "BBQ"
+                "British",
+                "Tex-Mex"
             ],
             "r2_answer": "Cheeseburger",
             "r2_choices": [
-                "Hot Dog",
+                "Fried Chicken",
                 "Cheeseburger",
-                "Fried Chicken"
+                "BBQ Ribs"
             ]
         },
         {
@@ -870,14 +870,14 @@
             "r1_answer": "Thai",
             "r1_choices": [
                 "Thai",
-                "Asian",
-                "Spicy"
+                "Vietnamese",
+                "Japanese"
             ],
             "r2_answer": "Pad Thai",
             "r2_choices": [
-                "Dim Sum",
                 "Pad Thai",
-                "Butter Chicken"
+                "Tom Yum",
+                "Green Curry"
             ]
         },
         {
@@ -886,7 +886,7 @@
             "r1_choices": [
                 "Middle Eastern",
                 "Mediterranean",
-                "Grilled"
+                "Indian"
             ],
             "r2_answer": "Falafel",
             "r2_choices": [
@@ -897,11 +897,11 @@
         },
         {
             "game_number": 10,
-            "r1_answer": "Dessert",
+            "r1_answer": "Sweet",
             "r1_choices": [
-                "Dessert",
+                "Savory",
                 "Sweet",
-                "Baked"
+                "Spicy"
             ],
             "r2_answer": "Tiramisu",
             "r2_choices": [
@@ -911,50 +911,50 @@
             ]
         }
     ],
-    "Animal": [
+    "Flora and Fauna": [
         {
             "game_number": 1,
             "r1_answer": "Mammal",
             "r1_choices": [
+                "Invertebrates",
                 "Mammal",
-                "Land Animal",
-                "Wildlife"
+                "Vertebrates"
             ],
             "r2_answer": "African Elephant",
             "r2_choices": [
-                "Bald Eagle",
+                "giraffe",
                 "African Elephant",
                 "Lion"
             ]
         },
         {
             "game_number": 2,
-            "r1_answer": "Bird",
+            "r1_answer": "Fruits",
             "r1_choices": [
-                "Bird",
-                "Flying",
-                "Avian"
+                "Fruits",
+                "Vegetables",
+                "Flowers"
             ],
-            "r2_answer": "Bald Eagle",
+            "r2_answer": "Apple",
             "r2_choices": [
-                "African Elephant",
-                "Bald Eagle",
-                "Penguin"
+                "Apple",
+                "Banana",
+                "Watermelon"
             ]
         },
         {
             "game_number": 3,
-            "r1_answer": "Reptile",
+            "r1_answer": "Insects",
             "r1_choices": [
-                "Reptile",
-                "Cold-Blooded",
-                "Scaly"
+                "Insects",
+                "Arachnids",
+                "Myriapods"
             ],
-            "r2_answer": "Komodo Dragon",
+            "r2_answer": "Monarch Butterfly",
             "r2_choices": [
-                "Frog",
-                "Komodo Dragon",
-                "Snake"
+                "Monarch Butterfly",
+                "Honey Bee",
+                "Ladybug"
             ]
         },
         {
@@ -962,470 +962,470 @@
             "r1_answer": "Fish",
             "r1_choices": [
                 "Fish",
-                "Aquatic",
-                "Swimming"
+                "Reptiles",
+                "Amphibians"
             ],
-            "r2_answer": "Great White Shark",
+            "r2_answer": "Dolphin",
             "r2_choices": [
-                "Bald Eagle",
-                "Great White Shark",
-                "Dolphin"
+                "Dolphin",
+                "Shark",
+                "Whale"
             ]
         },
         {
             "game_number": 5,
-            "r1_answer": "Insect",
+            "r1_answer": "Crustaceans",
             "r1_choices": [
-                "Insect",
-                "Bug",
-                "Small"
+                "Crustaceans",
+                "Reptiles",
+                "Arachnids"
             ],
-            "r2_answer": "Honey Bee",
+            "r2_answer": "crabs",
             "r2_choices": [
-                "Spider",
-                "Honey Bee",
-                "Ant"
+                "lobsters",
+                "Crabs",
+                "Shrimps"
             ]
         },
         {
             "game_number": 6,
-            "r1_answer": "Amphibian",
+            "r1_answer": "Mollusks",
             "r1_choices": [
-                "Amphibian",
-                "Wetland",
-                "Dual Life"
+                "Mollusks",
+                "Echinoderms",
+                "Cnidarians"
             ],
-            "r2_answer": "Poison Dart Frog",
+            "r2_answer": "Snails",
             "r2_choices": [
-                "Komodo Dragon",
-                "Poison Dart Frog",
-                "Frog"
+                "Octopus",
+                "Snails",
+                "Clams"
             ]
         },
         {
             "game_number": 7,
-            "r1_answer": "Arachnid",
+            "r1_answer": "Arachnids",
             "r1_choices": [
-                "Arachnid",
-                "Spider",
-                "Eight Legs"
+                "Arachnids",
+                "Insects",
+                "Myriapods"
             ],
-            "r2_answer": "Black Widow Spider",
+            "r2_answer": "Spiders",
             "r2_choices": [
-                "Honey Bee",
-                "Black Widow Spider",
-                "Scorpion"
+                "Spiders",
+                "scorpions",
+                "Mites"
             ]
         },
         {
             "game_number": 8,
-            "r1_answer": "Marine",
+            "r1_answer": "Reptiles",
             "r1_choices": [
-                "Marine",
-                "Ocean",
-                "Sea Creature"
+                "Reptiles",
+                "Amphibians",
+                "Fish"
             ],
-            "r2_answer": "Blue Whale",
+            "r2_answer": "crocodiles",
             "r2_choices": [
-                "African Elephant",
-                "Blue Whale",
-                "Great White Shark"
+                "lizards",
+                "Crocodiles",
+                "Turtles"
             ]
         },
         {
             "game_number": 9,
-            "r1_answer": "Endangered",
+            "r1_answer": "Cnidarians",
             "r1_choices": [
-                "Endangered",
-                "Rare",
-                "Protected"
+                "Cnidarians",
+                "Echinoderms",
+                "Worms"
             ],
-            "r2_answer": "Giant Panda",
+            "r2_answer": "Jellyfish",
             "r2_choices": [
-                "House Cat",
-                "Giant Panda",
-                "Tiger"
+                "Jellyfish",
+                "Sea anemone",
+                "Corals"
             ]
         },
         {
             "game_number": 10,
-            "r1_answer": "Predator",
+            "r1_answer": "Herbs",
             "r1_choices": [
-                "Predator",
-                "Hunter",
-                "Carnivore"
+                "Shrubs",
+                "Herbs",
+                "Trees"
             ],
-            "r2_answer": "Lion",
+            "r2_answer": "Mint",
             "r2_choices": [
-                "Zebra",
-                "Lion",
-                "Giraffe"
+                "Basil",
+                "Mint",
+                "coriander"
             ]
         }
     ],
     "Sport": [
         {
             "game_number": 1,
-            "r1_answer": "Team",
+            "r1_answer": "Team Sport",
             "r1_choices": [
-                "Team",
-                "Group",
-                "Cooperative"
+                "Team Sport",
+                "Individual Sport",
+                "Dual Sport"
             ],
             "r2_answer": "Soccer",
             "r2_choices": [
-                "Tennis",
-                "Soccer",
-                "Basketball"
-            ]
-        },
-        {
-            "game_number": 2,
-            "r1_answer": "Individual",
-            "r1_choices": [
-                "Individual",
-                "Solo",
-                "Personal"
-            ],
-            "r2_answer": "Tennis",
-            "r2_choices": [
-                "Soccer",
-                "Tennis",
-                "Swimming"
-            ]
-        },
-        {
-            "game_number": 3,
-            "r1_answer": "Winter",
-            "r1_choices": [
-                "Winter",
-                "Snow",
-                "Ice"
-            ],
-            "r2_answer": "Ice Hockey",
-            "r2_choices": [
-                "Baseball",
-                "Ice Hockey",
-                "Skiing"
-            ]
-        },
-        {
-            "game_number": 4,
-            "r1_answer": "Water",
-            "r1_choices": [
-                "Water",
-                "Aquatic",
-                "Swimming"
-            ],
-            "r2_answer": "Swimming",
-            "r2_choices": [
-                "Tennis",
-                "Swimming",
-                "Diving"
-            ]
-        },
-        {
-            "game_number": 5,
-            "r1_answer": "Extreme",
-            "r1_choices": [
-                "Extreme",
-                "Adventure",
-                "Risky"
-            ],
-            "r2_answer": "Rock Climbing",
-            "r2_choices": [
-                "Chess",
-                "Rock Climbing",
-                "Skydiving"
-            ]
-        },
-        {
-            "game_number": 6,
-            "r1_answer": "Olympic",
-            "r1_choices": [
-                "Olympic",
-                "International",
-                "Competitive"
-            ],
-            "r2_answer": "Gymnastics",
-            "r2_choices": [
-                "Poker",
-                "Gymnastics",
-                "Marathon"
-            ]
-        },
-        {
-            "game_number": 7,
-            "r1_answer": "Ball",
-            "r1_choices": [
-                "Ball",
-                "Throwing",
-                "Kicking"
-            ],
-            "r2_answer": "Basketball",
-            "r2_choices": [
-                "Wrestling",
                 "Basketball",
+                "Soccer",
                 "Football"
             ]
         },
         {
-            "game_number": 8,
-            "r1_answer": "Combat",
+            "game_number": 2,
+            "r1_answer": "Individual Sport",
             "r1_choices": [
-                "Combat",
-                "Fighting",
-                "Martial"
+                "Team Sport",
+                "Individual Sport",
+                "Dual Sport"
             ],
             "r2_answer": "Boxing",
             "r2_choices": [
-                "Soccer",
                 "Boxing",
-                "Karate"
-            ]
-        },
-        {
-            "game_number": 9,
-            "r1_answer": "Racing",
-            "r1_choices": [
-                "Racing",
-                "Speed",
-                "Vehicles"
-            ],
-            "r2_answer": "Formula 1",
-            "r2_choices": [
-                "Soccer",
-                "Formula 1",
-                "Horse Racing"
-            ]
-        },
-        {
-            "game_number": 10,
-            "r1_answer": "Endurance",
-            "r1_choices": [
-                "Endurance",
-                "Long Distance",
-                "Stamina"
-            ],
-            "r2_answer": "Marathon",
-            "r2_choices": [
-                "Sprint",
-                "Marathon",
-                "Weightlifting"
-            ]
-        }
-    ],
-    "Landmark": [
-        {
-            "game_number": 1,
-            "r1_answer": "Natural",
-            "r1_choices": [
-                "Natural",
-                "Geological",
-                "Scenic"
-            ],
-            "r2_answer": "Grand Canyon",
-            "r2_choices": [
-                "Eiffel Tower",
-                "Grand Canyon",
-                "Stonehenge"
-            ]
-        },
-        {
-            "game_number": 2,
-            "r1_answer": "Man-made",
-            "r1_choices": [
-                "Man-made",
-                "Constructed",
-                "Architectural"
-            ],
-            "r2_answer": "Eiffel Tower",
-            "r2_choices": [
-                "Mount Everest",
-                "Eiffel Tower",
-                "Machu Picchu"
+                "MMA",
+                "Wrestling"
             ]
         },
         {
             "game_number": 3,
-            "r1_answer": "Cultural",
+            "r1_answer": "Dual Sport",
             "r1_choices": [
-                "Cultural",
-                "Historical",
-                "Heritage"
+                "Team Sport",
+                "Individual Sport",
+                "Dual Sport"
             ],
-            "r2_answer": "Stonehenge",
+            "r2_answer": "Tennis",
             "r2_choices": [
-                "Niagara Falls",
-                "Stonehenge",
-                "Great Wall of China"
+                "Badminton",
+                "Tennis",
+                "Pickleball"
             ]
         },
         {
             "game_number": 4,
-            "r1_answer": "Religious",
+            "r1_answer": "Physical sports",
             "r1_choices": [
-                "Religious",
-                "Spiritual",
-                "Sacred"
+                "Physical sports",
+                "Mind sports",
+                "Motor sports"
             ],
-            "r2_answer": "Machu Picchu",
+            "r2_answer": "Rugby",
             "r2_choices": [
-                "Statue of Liberty",
-                "Machu Picchu",
-                "Pyramids of Giza"
+                "Rugby",
+                "AFL",
+                "american football"
             ]
         },
         {
             "game_number": 5,
-            "r1_answer": "Historical",
+            "r1_answer": "Mind Sport",
             "r1_choices": [
-                "Historical",
-                "Ancient",
-                "Monumental"
+                "Physical sports",
+                "Mind sports",
+                "Motor sports"
             ],
-            "r2_answer": "Great Wall of China",
+            "r2_answer": "Chess",
             "r2_choices": [
-                "Mount Fuji",
-                "Great Wall of China",
-                "Taj Mahal"
+                "Chess",
+                "Go",
+                "Poker"
             ]
         },
         {
             "game_number": 6,
-            "r1_answer": "Iconic",
+            "r1_answer": "Motor sports",
             "r1_choices": [
-                "Iconic",
-                "Famous",
-                "Symbolic"
+                "Physical sports",
+                "Mind sports",
+                "Motor sports"
             ],
-            "r2_answer": "Statue of Liberty",
+            "r2_answer": "Formula One",
             "r2_choices": [
-                "Uluru",
-                "Statue of Liberty",
-                "Colosseum"
+                "Formula One",
+                "Kart Racing",
+                "Powerboating"
             ]
         },
         {
             "game_number": 7,
-            "r1_answer": "Ancient",
+            "r1_answer": "Combat sports",
             "r1_choices": [
-                "Ancient",
-                "Old",
-                "Ruins"
+                "Combat sports",
+                "Ball games",
+                "Esports"
             ],
-            "r2_answer": "Pyramids of Giza",
+            "r2_answer": "Taekwondo",
             "r2_choices": [
-                "Sydney Opera House",
-                "Pyramids of Giza",
-                "Grand Canyon"
+                "Karate",
+                "Judo",
+                "Taekwondo"
             ]
         },
         {
             "game_number": 8,
-            "r1_answer": "Modern",
+            "r1_answer": "Esports",
             "r1_choices": [
-                "Modern",
-                "Contemporary",
-                "New"
+                "Combat sports",
+                "Ball games",
+                "Esports"
             ],
-            "r2_answer": "Sydney Opera House",
+            "r2_answer": "League of Legends",
             "r2_choices": [
-                "Stonehenge",
-                "Sydney Opera House",
-                "Eiffel Tower"
+                "League of Legends",
+                "Dota 2",
+                "Valorant"
             ]
         },
         {
             "game_number": 9,
-            "r1_answer": "Tourist",
+            "r1_answer": "Ball games",
             "r1_choices": [
-                "Tourist",
-                "Popular",
-                "Visited"
+                "Combat sports",
+                "Ball games",
+                "Esports"
             ],
-            "r2_answer": "Taj Mahal",
+            "r2_answer": "Basketball",
             "r2_choices": [
-                "Mount Rushmore",
-                "Taj Mahal",
-                "Christ the Redeemer"
+                "Basketball",
+                "Football",
+                "Volleyball"
             ]
         },
         {
             "game_number": 10,
-            "r1_answer": "Hidden",
+            "r1_answer": "Athletics",
             "r1_choices": [
-                "Hidden",
-                "Offbeat",
-                "Lesser-Known"
+                "Aquatics",
+                "Gymnastics",
+                "Athletics"
             ],
-            "r2_answer": "Mount Rushmore",
+            "r2_answer": "Marathon",
             "r2_choices": [
-                "Big Ben",
-                "Mount Rushmore",
-                "Niagara Falls"
+                "Sprints",
+                "Marathon",
+                "Race Walking"
+            ]
+        }
+    ],
+    "Places": [
+        {
+            "game_number": 1,
+            "r1_answer": "Natural Feature",
+            "r1_choices": [
+                "Natural Feature",
+                "Urban Landmark",
+                "Historical Site"
+            ],
+            "r2_answer": "Grand Canyon",
+            "r2_choices": [
+                "Niagara Falls",
+                "Grand Canyon",
+                "Great Barrier Reef"
+            ]
+        },
+        {
+            "game_number": 2,
+            "r1_answer": "Landmark",
+            "r1_choices": [
+                "Landmark",
+                "Monument",
+                "Ancient ruins"
+            ],
+            "r2_answer": "Mount Everest",
+            "r2_choices": [
+                "Mount Everest",
+                "Fuji Mountain",
+                "Fansipan Mountain"
+            ]
+        },
+        {
+            "game_number": 3,
+            "r1_answer": "Ancient ruins",
+            "r1_choices": [
+                "Landmark",
+                "Monument",
+                "Ancient ruins"
+            ],
+            "r2_answer": "Pyramids of Giza",
+            "r2_choices": [
+                "Machu Picchu",
+                "Stonehenge",
+                "Pyramids of Giza"
+            ]
+        },
+        {
+            "game_number": 4,
+            "r1_answer": "Monument",
+            "r1_choices": [
+                "Landmark",
+                "Monument",
+                "Ancient ruins"
+            ],
+            "r2_answer": "Taj Mahal",
+            "r2_choices": [
+                "Taj Mahal",
+                "Eiffel Tower",
+                "Statue of Liberty"
+            ]
+        },
+        {
+            "game_number": 5,
+            "r1_answer": "Country",
+            "r1_choices": [
+                "Country",
+                "Continent",
+                "Region"
+            ],
+            "r2_answer": "China",
+            "r2_choices": [
+                "China",
+                "Japan",
+                "India"
+            ]
+        },
+        {
+            "game_number": 6,
+            "r1_answer": "Continent",
+            "r1_choices": [
+                "Country",
+                "Continent",
+                "Region"
+            ],
+            "r2_answer": "Asia",
+            "r2_choices": [
+                "Africa",
+                "Asia",
+                "Europe"
+            ]
+        },
+        {
+            "game_number": 7,
+            "r1_answer": "State",
+            "r1_choices": [
+                "State",
+                "City",
+                "District"
+            ],
+            "r2_answer": "Victoria",
+            "r2_choices": [
+                "Victoria",
+                "New South Wales",
+                "Queensland"
+            ]
+        },
+        {
+            "game_number": 8,
+            "r1_answer": "City",
+            "r1_choices": [
+                "State",
+                "City",
+                "District"
+            ],
+            "r2_answer": "Hanoi",
+            "r2_choices": [
+                "Hanoi",
+                "Canberra",
+                "Washington, D.C."
+            ]
+        },
+        {
+            "game_number": 9,
+            "r1_answer": "Commercial",
+            "r1_choices": [
+                "Commercial",
+                "Industrial",
+                "Residential"
+            ],
+            "r2_answer": "Chadstone",
+            "r2_choices": [
+                "Chadstone",
+                "West Edmonton Mall",
+                "The Dubai Mall"
+            ]
+        },
+        {
+            "game_number": 10,
+            "r1_answer": "Historical Site",
+            "r1_choices": [
+                "Natural Feature",
+                "Urban Landmark",
+                "Historical Site"
+            ],
+            "r2_answer": "Collosseum",
+            "r2_choices": [
+                "Colosseum",
+                "Stonehenge",
+                "Machu Picchu"
             ]
         }
     ],
     "Invention": [
         {
             "game_number": 1,
-            "r1_answer": "Technology",
+            "r1_answer": "Medical",
             "r1_choices": [
-                "Technology",
-                "Digital",
-                "Electronic"
+                "Medical",
+                "Communication",
+                "Transportation"
             ],
-            "r2_answer": "Internet",
+            "r2_answer": "Vaccine",
             "r2_choices": [
+                "Vaccine",
                 "Penicillin",
-                "Internet",
-                "Telephone"
+                "X-ray"
             ]
         },
         {
             "game_number": 2,
-            "r1_answer": "Medical",
+            "r1_answer": "Communication",
             "r1_choices": [
                 "Medical",
-                "Health",
-                "Pharmaceutical"
+                "Communication",
+                "Transportation"
             ],
-            "r2_answer": "Penicillin",
+            "r2_answer": "Radio",
             "r2_choices": [
-                "Internet",
-                "Penicillin",
-                "Automobile"
+                "Radio",
+                "Telephone",
+                "Internet"
             ]
         },
         {
             "game_number": 3,
-            "r1_answer": "Communication",
+            "r1_answer": "Transportation",
             "r1_choices": [
+                "Medical",
                 "Communication",
-                "Messaging",
-                "Connection"
+                "Transportation"
             ],
-            "r2_answer": "Telephone",
+            "r2_answer": "Car",
             "r2_choices": [
-                "Vaccine",
-                "Telephone",
-                "Light Bulb"
+                "Car",
+                "Airplane",
+                "Train"
             ]
         },
         {
             "game_number": 4,
-            "r1_answer": "Transportation",
+            "r1_answer": "Scientific",
             "r1_choices": [
-                "Transportation",
-                "Vehicle",
-                "Mobility"
+                "Household",
+                "Scientific",
+                "Navigation"
             ],
-            "r2_answer": "Automobile",
+            "r2_answer": "Telescope",
             "r2_choices": [
-                "Radio",
-                "Automobile",
-                "Electricity"
+                "Telescope",
+                "Microscope",
+                "periscope"
             ]
         },
         {
@@ -1433,44 +1433,44 @@
             "r1_answer": "Household",
             "r1_choices": [
                 "Household",
-                "Home",
-                "Appliance"
+                "Scientific",
+                "Navigation"
             ],
             "r2_answer": "Light Bulb",
             "r2_choices": [
-                "Airplane",
+                "Microwave",
                 "Light Bulb",
-                "Television"
+                "Refrigerator"
             ]
         },
         {
             "game_number": 6,
-            "r1_answer": "Entertainment",
+            "r1_answer": "Navigation",
             "r1_choices": [
-                "Entertainment",
-                "Media",
-                "Leisure"
+                "Household",
+                "Scientific",
+                "Navigation"
             ],
-            "r2_answer": "Television",
+            "r2_answer": "GPS",
             "r2_choices": [
-                "Refrigerator",
-                "Television",
-                "Antibiotics"
+                "GPS",
+                "Compass",
+                "Map"
             ]
         },
         {
             "game_number": 7,
-            "r1_answer": "Scientific",
+            "r1_answer": "Physics",
             "r1_choices": [
-                "Scientific",
-                "Discovery",
-                "Research"
+                "Physics",
+                "Chemistry",
+                "Biography"
             ],
             "r2_answer": "Electricity",
             "r2_choices": [
-                "Camera",
+                "Plastics",
                 "Electricity",
-                "Telephone"
+                "DNA discovery"
             ]
         },
         {
@@ -1481,11 +1481,11 @@
                 "Instrument",
                 "Device"
             ],
-            "r2_answer": "Computer",
+            "r2_answer": "Hammer",
             "r2_choices": [
-                "Steam Engine",
-                "Computer",
-                "Bicycle"
+                "Hammer",
+                "Screwdriver",
+                "Wrench"
             ]
         },
         {
@@ -1493,29 +1493,29 @@
             "r1_answer": "Weapon",
             "r1_choices": [
                 "Weapon",
-                "Military",
-                "Defense"
+                "Armor",
+                "Siege Equipment"
             ],
-            "r2_answer": "Gunpowder",
+            "r2_answer": "Gun",
             "r2_choices": [
-                "Microwave",
-                "Gunpowder",
-                "Washing Machine"
+                "Gun",
+                "Arrow",
+                "Sword"
             ]
         },
         {
             "game_number": 10,
-            "r1_answer": "Agricultural",
+            "r1_answer": "Instrument",
             "r1_choices": [
-                "Agricultural",
-                "Farming",
-                "Cultivation"
+                "Tool",
+                "Instrument",
+                "Device"
             ],
-            "r2_answer": "Tractor",
+            "r2_answer": "Piano",
             "r2_choices": [
-                "Atomic Bomb",
-                "Tractor",
-                "Video Game"
+                "Piano",
+                "Violin",
+                "Drums"
             ]
         }
     ]
