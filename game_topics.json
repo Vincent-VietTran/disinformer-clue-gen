@@ -1464,13 +1464,13 @@
             "r1_choices": [
                 "Physics",
                 "Chemistry",
-                "Biography"
+                "Biology"
             ],
-            "r2_answer": "Electricity",
+            "r2_answer": "Quantum Theory",
             "r2_choices": [
-                "Plastics",
-                "Electricity",
-                "DNA discovery"
+                "Laws of Motion and Gravity",
+                "Quantum Theory",
+                "Theory of Relativity"
             ]
         },
         {
