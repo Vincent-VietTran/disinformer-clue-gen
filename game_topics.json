@@ -122,9 +122,9 @@
         },
         {
             "game_number": 9,
-            "r1_answer": "Animation",
+            "r1_answer": "Family",
             "r1_choices": [
-                "Animation",
+                "Adventure",
                 "Family",
                 "Comedy"
             ],
@@ -132,7 +132,7 @@
             "r2_choices": [
                 "Finding Nemo",
                 "Toy Story",
-                "Shrek"
+                "Cars"
             ]
         },
         {
