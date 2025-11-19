@@ -1,41 +1,41 @@
 # Analysis for Test 5
 
 # Game Clue Analysis Matrix
-**Test Run 5 | Round 1: Video Game → The Legend of Zelda: Breath of the Wild**
+**Test Run 5 | Round 1: Movie**
 
 ---
 
 ## 1. Length Compliance
 | Status | Criteria |
 |--------|----------|
-| ❌ FAIL | Clues within 15-20 words |
+| ✅ PASS | Clues within 15-20 words |
 
-**Compliance Rate:** 47% (7/15 clues)  
-**Outliers:** 8/15 clues failed  
-**Average Word Count:** 14.4 words
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 16.4 words
 
-**Assessment:** ❌ Critical - Significant length violations require revision
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
 
 ---
 
 ## 2. Quality Scores (Rate 1-5)
 
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
 
-Most clues are specific and point toward the correct answer. However, some clues may be too generic or lack the level of detail expected for a 20-word limit. For instance, informed_clues #6 contains the phrase 'The medium has evolved over time' which could be more descriptive. Clues should focus on highlighting unique aspects of video games to stand out from book/movie choices.
+The clues are highly specific to the correct answer, 'Horror,' using terms like 'fear,' 'shock,' 'supernatural elements,' 'jump scares,' 'dread,' 'monstrous creatures,' 'psychological disturbances,' 'primal fears,' and 'anxieties.' These are defining characteristics of the horror genre and do not apply to Thriller or Sci-Fi in the same definitive way.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
 - Provide distinct perspectives where applicable
 
 ⚠️ Concerns:
-- informed_clues #9 contains an overly broad description of the industry
+- Minor thematic overlap observed
 
 ### Misinformed Clues: 2/5  
 **Fair - Below expectations**
 
-Only two clues, misinformed_clues #1 and #2, are provided. While they attempt to create ambiguity by describing a solitary experience, they don't convincingly relate to video games or distinguish from the book/movie choice. A more effective strategy would be to describe a characteristic that could apply to either video games or books, but leans more toward books. For example, 'The experience often involves reading or listening.'
+The misinformed clues are too vague. 'Features suspense, thrills, and elements of the unknown' and 'aims to evoke strong emotional responses, such as excitement, fear, or anticipation' could apply to Thriller and Sci-Fi equally well, making them somewhat ambiguous. However, they don't create much productive confusion because the informed clues are so strong. The second clue 'fear' is too close to the answer word.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -45,10 +45,10 @@ Only two clues, misinformed_clues #1 and #2, are provided. While they attempt to
 - May need more subtle misdirection
 - Ambiguity effectiveness varies
 
-### Fake Clues: 1/5  
-**Poor - Needs significant revision**
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
 
-Fake clues completely fail to point toward the wrong answer choices. They describe unrelated activities like board games or sports, which doesn't effectively misdirect the player. Clues should clearly point toward the book/movie choice to effectively mislead the player.
+The fake clues are excellent. The first clue strongly points to 'Sci-Fi' with 'complex plots, time travel, and advanced technology in the future or space.' The second clue strongly points to 'Thriller' with 'espionage, mystery, and complex plots involving government secrets and schemes.' Neither clue has any overlap with 'Horror,' providing effective misdirection.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -62,109 +62,9 @@ Fake clues completely fail to point toward the wrong answer choices. They descri
 |--------|--------|
 | Theme Coverage | ✅ PASS |
 | Clue Variation | ✅ PASS |
-| Angle Coverage | ❌ FAIL |
+| Angle Coverage | ✅ PASS |
 
-**Issues Found:** informed_clues #9 contains an overly broad description of the industry
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The difficulty level of the clues is mostly just right. They're not too easy or too hard, but some clues may require a bit more thought to distinguish from book/movie choices. For instance, informed_clues #9 describes the industry's evolution and innovation, which could be more challenging to connect to the answer.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 2.3/5
-
-**Pass/Fail:** ⚠️ NEEDS REVISION
-
-**Main Issues:**
-- Word count compliance issues
-- Insufficient ambiguity in misinformed clues
-- Missing specificity in clues
-
-**Priority Actions:**
-1. Address length compliance
-2. Enhance misinformed clue ambiguity
-3. Maintain current diversity
-
-**Overall Notes:**  
-The provided clues have some issues with length compliance and specificity. While some clues effectively point toward the correct answer, others struggle to create ambiguity or misdirection. A more effective strategy would be to focus on highlighting unique aspects of video games and using more descriptive language. Additionally, fake clues should clearly point toward the wrong answer choices, and misinformed clues should create more ambiguity by describing characteristics that could apply to either video games or books.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 5 | Round 2: Video Game → The Legend of Zelda: Breath of the Wild**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ❌ FAIL | Clues within 15-20 words |
-
-**Compliance Rate:** 57% (8/14 clues)  
-**Outliers:** 6/14 clues failed  
-**Average Word Count:** 17.9 words
-
-**Assessment:** ❌ Critical - Significant length violations require revision
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 4/5  
-**Very Good - Exceeds expectations**
-
-Some clues, such as #2, #5, and #9, are very specific to the game, but others like #1, #3, and #8, could be more specific (e.g., mentioning the Divine Beasts or the Champions).
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- informed_clues #3 and #8 could be more specific; misinformed_clues #1 and #2 could be more ambiguous; fake_clues #1 and #2 could be more clearly misdirecting
-
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
-
-Clue #1 is vague and doesn't create ambiguity effectively, while #2 is more related to a generic action game rather than creating doubt about the other options.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 1/5  
-**Poor - Needs significant revision**
-
-Clue #1 in the fake category is unrelated to the other options, and #2 could be related to multiple games, but the clue itself is not clear enough to misdirect effectively.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ❌ FAIL |
-
-**Issues Found:** informed_clues #3 and #8 could be more specific; misinformed_clues #1 and #2 could be more ambiguous; fake_clues #1 and #2 could be more clearly misdirecting
+**Issues Found:** None identified
 
 ---
 
@@ -174,28 +74,124 @@ Clue #1 in the fake category is unrelated to the other options, and #2 could be 
 |-------|------------|
 | Rating | 4/5 - 🟠 Too Hard |
 
-**Reasoning:** The clues require some thought and understanding of the game's mechanics and features, but some clues could be more challenging without becoming too obscure.
+**Reasoning:** The difficulty is moderate to high. The informed clues are very strong and clearly point to 'Horror'. However, the misinformed clues are weak and don't create significant ambiguity. The fake clues are strong and effectively misdirect to 'Sci-Fi' and 'Thriller'. The challenge lies in discerning the subtle differences that might exist if the misinformed clues were better crafted, or if the informed clues were slightly less definitive.
 
 ---
 
 ## Overall Assessment
 
-**Overall Quality Score:** 2.7/5
+**Overall Quality Score:** 4.0/5
 
-**Pass/Fail:** ⚠️ NEEDS REVISION
+**Pass/Fail:** ✅ PASS
 
 **Main Issues:**
-- Word count compliance issues
-- Generic/vague clues
-- Missing specificity in clues
+- Insufficient ambiguity in misinformed clues
 
 **Priority Actions:**
-1. Address length compliance
+1. Minor length adjustments
+2. Enhance misinformed clue ambiguity
+3. Maintain current diversity
+
+**Overall Notes:**  
+The informed clues are excellent and specific to 'Horror'. The fake clues are also very strong and effectively misdirect to 'Sci-Fi' and 'Thriller'. The misinformed clues are the weakest part, being too vague and not creating enough productive ambiguity. The game is challenging due to the strong fake clues and clear informed clues, but the misinformed clues could be improved to better balance the difficulty.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 5 | Round 2: Movie**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (14/14 clues)  
+**Outliers:** 0/14 clues failed  
+**Average Word Count:** 16.4 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues effectively capture the core elements of The Shining without using any direct keywords or synonyms. They focus on isolation, psychological decay, paranormal activity, and specific iconic imagery in a descriptive manner.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
+
+These clues are factually true for The Shining but are also general enough to apply to other suspenseful narratives. They create a baseline level of ambiguity. The first clue about 'extraordinary circumstances and dangerous situations' could apply to Inception's heist or Alien's survival. The second clue about 'mystery, suspense, and unexpected plot twists' is very broad and fits all three options to some degree.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+The first fake clue strongly points to Inception with 'intricate dream sequences' and 'subconscious'. The second fake clue clearly describes Alien with 'space travelers' and 'hostile extraterrestrial life form'. Both are highly effective misdirections.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 3/5 - 🟢 Just Right |
+
+**Reasoning:** The informed clues are specific enough to strongly suggest The Shining, but the misinformed clues provide enough overlap with the other options to prevent it from being too easy. The fake clues are very strong diversions, increasing the challenge.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.3/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Minor issues noted
+
+**Priority Actions:**
+1. Minor length adjustments
 2. Maintain misinformed clue quality
 3. Maintain current diversity
 
 **Overall Notes:**  
-The clues generally meet the requirements, but there's room for improvement, especially in terms of specificity, length compliance, and misdirection. Some clues feel too generic or straightforward, while others could be more ambiguous or misleading.
+A well-balanced set of clues. The informed clues are precise and descriptive. The misinformed clues offer plausible, though weaker, connections to the other options. The fake clues are excellent misdirections, strongly pulling towards Inception and Alien respectively.
 
 ---
 
@@ -204,5 +200,5 @@ The clues generally meet the requirements, but there's room for improvement, esp
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 47% | 4/5 | 2.0/5 | 1/5 | 3/5 |
-| 2 | 57% | 4/5 | 3.0/5 | 1/5 | 4/5 |
+| 1 | 100% | 5/5 | 2/5 | 5/5 | 4/5 |
+| 2 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
