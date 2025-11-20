@@ -23,7 +23,7 @@
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-Clues are specific to Sci-Fi without using forbidden words. They highlight technological advancements, future settings, and speculative concepts. Variety of phrasing is good.
+The clues are highly specific to Sci-Fi, using terms like 'technological advancements,' 'futuristic settings,' 'space travel,' 'robots,' 'aliens,' 'artificial intelligence,' and 'speculative concepts.' They avoid any overlap with Horror or Fantasy and do not use the answer word itself or obvious synonyms.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -35,7 +35,7 @@ Clues are specific to Sci-Fi without using forbidden words. They highlight techn
 ### Misinformed Clues: 3/5  
 **Good - Meets requirements**
 
-Clues are generally true for all options but could be more ambiguous. 'Suspense, thrills, and elements of the unknown' is a good shared attribute. 'Fantastical elements and imaginative creatures' is a bit more specific to Fantasy, but still plausible for Sci-Fi and Horror in a broad sense.
+The clues are somewhat ambiguous but could be slightly more productive. 'Features suspense, thrills, and elements of the unknown' is true for Sci-Fi but also strongly for Horror. 'Involves fantastical elements and imaginative creatures' is true for Sci-Fi (aliens, AI can be 'fantastical' in a broad sense) and also Fantasy, but less so for Horror unless it's supernatural horror. The goal is for these to be *equally* true for all options, which is a very high bar. These are decent attempts at shared truth.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ Clues are generally true for all options but could be more ambiguous. 'Suspense,
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-These clues are excellent. 'Jump scares and intense sound design' strongly points to Horror and is completely unrelated to Sci-Fi. 'Mythical creatures, magic spells, and epic quests' clearly directs towards Fantasy and away from Sci-Fi.
+These clues are highly effective at misdirecting towards Horror ('jump scares,' 'dread and fear') and Fantasy ('mythical creatures,' 'magic spells,' 'enchanted landscapes'). They contain no elements that would suggest Sci-Fi, making them excellent misdirection.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,7 +74,7 @@ These clues are excellent. 'Jump scares and intense sound design' strongly point
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are strong enough to guide players toward the correct answer, while the fake clues effectively misdirect. The misinformed clues offer a moderate level of ambiguity, making the game challenging but not impossible.
+**Reasoning:** The informed clues are very strong, making the correct answer clear if one focuses on them. However, the misinformed clues, while not perfectly ambiguous, do add a layer of potential confusion, and the fake clues are strong misdirectors. This combination creates a moderate difficulty level.
 
 ---
 
@@ -86,7 +86,6 @@ These clues are excellent. 'Jump scares and intense sound design' strongly point
 
 **Main Issues:**
 - Insufficient ambiguity in misinformed clues
-- Answer word revealed in clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -94,7 +93,7 @@ These clues are excellent. 'Jump scares and intense sound design' strongly point
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are precise and well-written, avoiding any answer contamination. The fake clues are highly effective in misdirecting players to the incorrect choices. The misinformed clues provide a decent level of ambiguity, contributing to a balanced difficulty.
+The informed clues are excellent and clearly point to Sci-Fi without using forbidden terms. The fake clues are highly effective misdirectors for Horror and Fantasy. The misinformed clues are a good attempt at creating ambiguity, though achieving perfect shared truth across all options is challenging.
 
 ---
 
@@ -122,7 +121,7 @@ The informed clues are precise and well-written, avoiding any answer contaminati
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-Clues are highly specific to 'The Matrix' without using forbidden words. They cover different aspects like themes, visuals, narrative, and characters. No answer contamination or synonym use is apparent.
+Clues are precise and descriptive without using answer words or synonyms. They cover various aspects of the film, from its philosophical themes to its visual innovations.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -134,7 +133,7 @@ Clues are highly specific to 'The Matrix' without using forbidden words. They co
 ### Misinformed Clues: 3/5  
 **Good - Meets requirements**
 
-The clues are factually true for all three options but are too generic. 'This movie has many exciting scenes and is one of the most popular movies of all time' and 'This movie has a lot of special effects and is very entertaining to watch on a big screen' could apply to any major blockbuster. They create ambiguity but not in a particularly productive or challenging way because they are so broad.
+The clues are factually true for all options but are very general. They lack the specificity to create productive ambiguity and are too vague to strongly point to any incorrect answer over the correct one.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -147,7 +146,7 @@ The clues are factually true for all three options but are too generic. 'This mo
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-These clues are excellent at misdirecting. The first clue strongly points to 'The Conjuring' by describing its core plot, and the second clue perfectly describes 'The Lord of the Rings'. They are specific enough to be believable for those choices and completely unrelated to 'The Matrix'.
+These clues effectively misdirect to 'The Conjuring' and 'The Lord of the Rings' respectively, using core plot elements of those films and avoiding any connection to 'The Matrix'.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -173,7 +172,7 @@ These clues are excellent at misdirecting. The first clue strongly points to 'Th
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are strong and specific enough to guide a player towards the correct answer, while the fake clues provide effective misdirection. The misinformed clues are a bit too vague, which slightly lowers the overall challenge, but the combination still creates a balanced difficulty.
+**Reasoning:** The informed clues are strong enough to identify the correct answer, while the fake clues provide clear misdirection to incorrect options. The misinformed clues are too vague to be helpful or harmful.
 
 ---
 
@@ -184,8 +183,7 @@ These clues are excellent at misdirecting. The first clue strongly points to 'Th
 **Pass/Fail:** ✅ PASS
 
 **Main Issues:**
-- Generic/vague clues
-- Insufficient ambiguity in misinformed clues
+- Minor issues noted
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -193,7 +191,7 @@ These clues are excellent at misdirecting. The first clue strongly points to 'Th
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are excellent and highly specific. The fake clues are very effective at misdirecting to the incorrect answers. The misinformed clues are too generic and could be improved for more productive ambiguity, but the overall set is good.
+The informed and fake clues are well-crafted and serve their intended purposes. The misinformed clues could be improved by being slightly more specific while still remaining ambiguous across all options.
 
 ---
 

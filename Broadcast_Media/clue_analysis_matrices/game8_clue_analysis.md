@@ -1,7 +1,7 @@
-# Analysis for Test 6
+# Analysis for Test 8
 
 # Game Clue Analysis Matrix
-**Test Run 6 | Round 1: Movie**
+**Test Run 8 | Round 1: Movie**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 17.0 words
+**Average Word Count:** 16.2 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -23,7 +23,7 @@
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-The clues are specific to the concept of 'Romance' by focusing on love, connection, relationships, intimacy, and desire without using the word 'romance' itself. They effectively highlight the core themes and emotional focus of the genre.
+The clues are precise and descriptive, using strong paraphrases that directly point to 'Fantasy' without using any forbidden words or synonyms. They cover various aspects like magic, mythical creatures, quests, and medieval settings, providing a clear picture of the genre.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -35,7 +35,7 @@ The clues are specific to the concept of 'Romance' by focusing on love, connecti
 ### Misinformed Clues: 2/5  
 **Fair - Below expectations**
 
-These clues are too vague. While factually true for 'Romance', they are also too universally true for 'Drama' and 'Comedy' as well, making them less effective at creating productive ambiguity. The first clue mentions 'conflict' which is more strongly associated with Drama, and the second mentions 'emotional experiences of life and love' which is broad enough to fit all genres, but doesn't specifically point towards Romance over the others.
+These clues are too vague and could apply to multiple genres, not just 'Fantasy' and the incorrect options. While they are factually true for 'Fantasy', they lack the necessary ambiguity to be truly misleading. For example, 'protagonists facing perilous trials' is true for almost all genres. The goal is for these clues to be true for *all* options, and these lean too heavily towards specific plot devices rather than universal genre traits.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ These clues are too vague. While factually true for 'Romance', they are also too
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The first fake clue is perfectly designed to mislead towards 'Comedy' with 'humor and witty dialogue' and 'comedic situations'. The second fake clue, focusing on overcoming difficult situations through perseverance, strongly points to 'Drama' without any overlap with 'Romance'.
+These clues are highly effective at misdirecting the player. The first clue strongly points to 'Adventure' by mentioning rescue missions and perilous journeys. The second clue is a perfect fit for 'Sci-Fi' with its mention of advanced technology and space travel, making them excellent deceptive choices.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,7 +74,7 @@ The first fake clue is perfectly designed to mislead towards 'Comedy' with 'humo
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are strong and specific, making 'Romance' identifiable. However, the misinformed clues are weak, and the fake clues are very effective, which could lead to a slightly higher difficulty if a player over-relies on the misinformed clues or is strongly misled by the fake ones. Overall, a balanced difficulty.
+**Reasoning:** The informed clues are strong and specific enough to lead to the correct answer, while the fake clues are well-crafted to misdirect to the incorrect choices. The misinformed clues are a bit weak in their ambiguity, which slightly lowers the overall difficulty from a perfect 3, but the balance between informed and fake is good.
 
 ---
 
@@ -93,13 +93,13 @@ The first fake clue is perfectly designed to mislead towards 'Comedy' with 'humo
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are excellent, providing clear and distinct information about 'Romance'. The fake clues are highly effective at misdirecting to 'Comedy' and 'Drama'. The misinformed clues are the weakest element, being too general and not creating sufficient ambiguity for the intended purpose.
+The informed clues are excellent and accurately represent the target answer. The fake clues are very effective at misdirecting to the incorrect choices. The misinformed clues could be improved by being more universally applicable to all genres to create better ambiguity, but the overall set is strong.
 
 ---
 
 
 # Game Clue Analysis Matrix
-**Test Run 6 | Round 2: Movie**
+**Test Run 8 | Round 2: Movie**
 
 ---
 
@@ -110,7 +110,7 @@ The informed clues are excellent, providing clear and distinct information about
 
 **Compliance Rate:** 100% (14/14 clues)  
 **Outliers:** 0/14 clues failed  
-**Average Word Count:** 17.5 words
+**Average Word Count:** 16.6 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -121,7 +121,7 @@ The informed clues are excellent, providing clear and distinct information about
 ### Informed Clues: 4/5  
 **Very Good - Exceeds expectations**
 
-The clues effectively highlight specific elements of 'Pride and Prejudice' such as the social dynamics, the protagonist's journey, and the evolution of the central relationship. They avoid direct answer words and offer distinct perspectives.
+Clues are descriptive and specific to the correct answer without using direct keywords. They highlight unique plot points, themes, and settings. There is good variety in the clues.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -133,7 +133,7 @@ The clues effectively highlight specific elements of 'Pride and Prejudice' such 
 ### Misinformed Clues: 2/5  
 **Fair - Below expectations**
 
-The misinformed clues are too general and could apply to many romance stories. They don't create productive ambiguity because they are not factually true for all the incorrect choices ('The Notebook', 'When Harry Met Sally') in a way that truly intersects with 'Pride and Prejudice' without being overly broad.
+The misinformed clues are too generic. While factually true for all options, they don't create enough productive ambiguity. 'Quest and a team' and 'perilous trials and a dangerous journey' are so broad they barely serve the purpose of misdirection.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -146,7 +146,7 @@ The misinformed clues are too general and could apply to many romance stories. T
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-These clues are highly effective at misdirecting the player towards 'The Notebook' and 'When Harry Met Sally' respectively, by referencing specific plot points and settings of those movies without any overlap with 'Pride and Prejudice'.
+The fake clues are excellent. They directly and accurately describe the incorrect choices ('swashbuckling adventure with pirates' for Pirates of the Caribbean, and 'rebels fighting against a tyrannical empire' for Star Wars), providing strong misdirection.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -172,7 +172,7 @@ These clues are highly effective at misdirecting the player towards 'The Noteboo
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues provide good direction towards the correct answer, while the fake clues are strong misdirections. The misinformed clues are weak, which slightly lowers the overall difficulty but doesn't make it too easy.
+**Reasoning:** The informed clues are strong enough to point to the correct answer for someone familiar with it. The fake clues are very effective at misdirecting. The misinformed clues are a bit weak, which slightly lowers the overall challenge.
 
 ---
 
@@ -191,7 +191,7 @@ These clues are highly effective at misdirecting the player towards 'The Noteboo
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are well-crafted and specific. The fake clues are excellent misdirections. The misinformed clues need improvement to be more universally applicable to all choices and create better ambiguity.
+The informed and fake clues are well-crafted. The informed clues are specific to the correct answer without being too obvious, and the fake clues are highly deceptive. The misinformed clues could be improved to create more productive ambiguity.
 
 ---
 
