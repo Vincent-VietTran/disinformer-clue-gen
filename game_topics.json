@@ -42,7 +42,7 @@
             "r2_choices": [
                 "John Wick",
                 "Mad Max: Fury Road",
-                "Die Hard"
+                "The Bourne Identity"
             ]
         },
         {
@@ -101,7 +101,7 @@
             "r2_answer": "Physical: 100",
             "r2_choices": [
                 "Survivor",
-                "Man vs. Wild",
+                "Wipeout",
                 "Physical: 100"
             ]
         },
@@ -130,7 +130,7 @@
             ],
             "r2_answer": "MasterChef",
             "r2_choices": [
-                "Hell's Kitchen",
+                "Top Chef",
                 "MasterChef",
                 "Chopped"
             ]
@@ -147,7 +147,7 @@
             "r2_choices": [
                 "Who Wants to Be a Millionaire?",
                 "Wheel of Fortune",
-                "Family Feud"
+                "Jeopardy!"
             ]
         }
     ],
