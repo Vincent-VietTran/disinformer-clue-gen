@@ -17,17 +17,17 @@
         },
         {
             "game_number": 2,
-            "r1_answer": "Comedy",
+            "r1_answer": "Family",
             "r1_choices": [
-                "Comedy",
-                "Action",
-                "Drama"
+                "Adventure",
+                "Family",
+                "Comedy"
             ],
-            "r2_answer": "The Hangover",
+            "r2_answer": "Toy Story",
             "r2_choices": [
-                "Superbad",
-                "The Hangover",
-                "Bridesmaids"
+                "Finding Nemo",
+                "Toy Story",
+                "The Incredibles"
             ]
         },
         {
@@ -122,17 +122,17 @@
         },
         {
             "game_number": 9,
-            "r1_answer": "Talk Show",
+            "r1_answer": "TCooking Show",
             "r1_choices": [
                 "Talk Show",
                 "Game show",
                 "Cooking Show"
             ],
-            "r2_answer": "The Tonight Show Starring Jimmy Fallon",
+            "r2_answer": "MasterChef",
             "r2_choices": [
-                "The Ellen Show",
-                "The Tonight Show Starring Jimmy Fallon",
-                "Who Wants to Be a Millionaire?"
+                "Hell's Kitchen",
+                "MasterChef",
+                "Chopped"
             ]
         },
         {
@@ -143,9 +143,9 @@
                 "Quiz",
                 "Panel Game"
             ],
-            "r2_answer": "Jeopardy!",
+            "r2_answer": "Who Wants to Be a Millionaire?",
             "r2_choices": [
-                "Jeopardy!",
+                "Who Wants to Be a Millionaire?",
                 "Wheel of Fortune",
                 "Family Feud"
             ]
