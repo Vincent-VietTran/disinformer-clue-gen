@@ -1,5 +1,5 @@
 {
-    "Movie": [
+    "Broadcast Media": [
         {
             "game_number": 1,
             "r1_answer": "Sci-Fi",
@@ -42,7 +42,7 @@
             "r2_choices": [
                 "John Wick",
                 "Mad Max: Fury Road",
-                "Mission Impossible"
+                "Die Hard"
             ]
         },
         {
@@ -70,43 +70,13 @@
             ],
             "r2_answer": "The Shining",
             "r2_choices": [
-                "Poltergeist",
+                "The Witch",
                 "The Shining",
-                "Insidious"
+                "The Lighthouse"
             ]
         },
         {
             "game_number": 6,
-            "r1_answer": "Romance",
-            "r1_choices": [
-                "Romance",
-                "Drama",
-                "Comedy"
-            ],
-            "r2_answer": "Pride and Prejudice",
-            "r2_choices": [
-                "The Notebook",
-                "Pride and Prejudice",
-                "When Harry Met Sally"
-            ]
-        },
-        {
-            "game_number": 7,
-            "r1_answer": "Thriller",
-            "r1_choices": [
-                "Thriller",
-                "Mystery",
-                "Action"
-            ],
-            "r2_answer": "Inception",
-            "r2_choices": [
-                "Sherlock Holmes",
-                "Inception",
-                "James Bond"
-            ]
-        },
-        {
-            "game_number": 8,
             "r1_answer": "Fantasy",
             "r1_choices": [
                 "Fantasy",
@@ -115,43 +85,73 @@
             ],
             "r2_answer": "The Lord of the Rings: The Fellowship of the Ring",
             "r2_choices": [
-                "Star Wars",
+                "Fantastic Beasts and Where to Find Them",
                 "The Lord of the Rings: The Fellowship of the Ring",
-                "Pirates of the Caribbean"
+                "Harry Potter and the Sorcerer's Stone"
+            ]
+        },
+        {
+            "game_number": 7,
+            "r1_answer": "Reality Show",
+            "r1_choices": [
+                "Reality Show",
+                "Dating Show",
+                "Talent Show"
+            ],
+            "r2_answer": "Physical: 100",
+            "r2_choices": [
+                "Survivor",
+                "Man vs. Wild",
+                "Physical: 100"
+            ]
+        },
+        {
+            "game_number": 8,
+            "r1_answer": "Cartoon",
+            "r1_choices": [
+                "Anime",
+                "Cartoon",
+                "Stop-Motion"
+            ],
+            "r2_answer": "Rick and Morty",
+            "r2_choices": [
+                "The Simpsons",
+                "Rick and Morty",
+                "Family Guy"
             ]
         },
         {
             "game_number": 9,
-            "r1_answer": "Family",
+            "r1_answer": "Talk Show",
             "r1_choices": [
-                "Adventure",
-                "Family",
-                "Comedy"
+                "Talk Show",
+                "Game show",
+                "Cooking Show"
             ],
-            "r2_answer": "Toy Story",
+            "r2_answer": "The Tonight Show Starring Jimmy Fallon",
             "r2_choices": [
-                "Finding Nemo",
-                "Toy Story",
-                "Cars"
+                "The Ellen Show",
+                "The Tonight Show Starring Jimmy Fallon",
+                "Who Wants to Be a Millionaire?"
             ]
         },
         {
             "game_number": 10,
-            "r1_answer": "Documentary",
+            "r1_answer": "Game Show",
             "r1_choices": [
-                "Documentary",
-                "Biography",
-                "Educational"
+                "Game Show",
+                "Quiz",
+                "Panel Game"
             ],
-            "r2_answer": "Won't You Be My Neighbor?",
+            "r2_answer": "Jeopardy!",
             "r2_choices": [
-                "Steve Jobs",
-                "Won't You Be My Neighbor?",
-                "Cosmos"
+                "Jeopardy!",
+                "Wheel of Fortune",
+                "Family Feud"
             ]
         }
     ],
-    "Song": [
+    "Songs": [
         {
             "game_number": 1,
             "r1_answer": "Rock",
@@ -303,7 +303,7 @@
             ]
         }
     ],
-    "Book": [
+    "Books": [
         {
             "game_number": 1,
             "r1_answer": "Fantasy",
@@ -455,159 +455,7 @@
             ]
         }
     ],
-    "Film/Videography": [
-        {
-            "game_number": 1,
-            "r1_answer": "TV Show",
-            "r1_choices": [
-                "TV Show",
-                "Sitcom",
-                "Mini-Series"
-            ],
-            "r2_answer": "Breaking Bad",
-            "r2_choices": [
-                "Sherlock",
-                "Breaking Bad",
-                "The Crown"
-            ]
-        },
-        {
-            "game_number": 2,
-            "r1_answer": "Sitcom",
-            "r1_choices": [
-                "Sitcom",
-                "Drama",
-                "Western"
-            ],
-            "r2_answer": "The Office",
-            "r2_choices": [
-                "Friends",
-                "The Office",
-                "Saturday Night Live"
-            ]
-        },
-        {
-            "game_number": 3,
-            "r1_answer": "Film Technique",
-            "r1_choices": [
-                "Cinematography",
-                "Editing",
-                "Sound Design"
-            ],
-            "r2_answer": "Long Take",
-            "r2_choices": [
-                "Long Take",
-                "Montage",
-                "Foley"
-            ]
-        },
-        {
-            "game_number": 4,
-            "r1_answer": "Reality Show",
-            "r1_choices": [
-                "Reality Show",
-                "Dating Show",
-                "Talent Show"
-            ],
-            "r2_answer": "Physical: 100",
-            "r2_choices": [
-                "Survivor",
-                "Man vs. Wild",
-                "Physical: 100"
-            ]
-        },
-        {
-            "game_number": 5,
-            "r1_answer": "Cartoon",
-            "r1_choices": [
-                "Anime",
-                "Cartoon",
-                "Stop-Motion"
-            ],
-            "r2_answer": "Rick and Morty",
-            "r2_choices": [
-                "The Simpsons",
-                "Rick and Morty",
-                "Family Guy"
-            ]
-        },
-        {
-            "game_number": 6,
-            "r1_answer": "Talk Show",
-            "r1_choices": [
-                "Talk Show",
-                "Game show",
-                "Cooking Show"
-            ],
-            "r2_answer": "The Tonight Show Starring Jimmy Fallon",
-            "r2_choices": [
-                "The Ellen Show",
-                "The Tonight Show Starring Jimmy Fallon",
-                "Who Wants to Be a Millionaire?"
-            ]
-        },
-        {
-            "game_number": 7,
-            "r1_answer": "Game Show",
-            "r1_choices": [
-                "Game Show",
-                "Quiz",
-                "Panel Game"
-            ],
-            "r2_answer": "Jeopardy!",
-            "r2_choices": [
-                "Jeopardy!",
-                "Wheel of Fortune",
-                "Family Feud"
-            ]
-        },
-        {
-            "game_number": 8,
-            "r1_answer": "Documentary Series",
-            "r1_choices": [
-                "Documentary Series",
-                "Comedy",
-                "Reality Show"
-            ],
-            "r2_answer": "Planet Earth",
-            "r2_choices": [
-                "The Grand Tour",
-                "Planet Earth",
-                "Anthony Bourdain: Parts Unknown"
-            ]
-        },
-        {
-            "game_number": 9,
-            "r1_answer": "Kids Show",
-            "r1_choices": [
-                "Kids Show",
-                "Educational",
-                "Puppet Show"
-            ],
-            "r2_answer": "Sesame Street",
-            "r2_choices": [
-                "SpongeBob SquarePants",
-                "Sesame Street",
-                "Bill Nye the Science Guy"
-            ]
-        },
-        {
-            "game_number": 10,
-            "r1_answer": "detective fiction",
-            "r1_choices": [
-                "Thriller",
-                "detective fiction",
-                "Horror"
-            ],
-            "r2_answer": "True Detective",
-            "r2_choices": [
-                "Sherlock",
-                "True Detective",
-                "The X-Files"
-            ]
-        }
-    ],
-    "Video Game": [
+    "Video Games": [
         {
             "game_number": 1,
             "r1_answer": "RPG",
@@ -911,7 +759,7 @@
             ]
         }
     ],
-    "Flora and Fauna": [
+    "Nature": [
         {
             "game_number": 1,
             "r1_answer": "Mammal",
@@ -1063,7 +911,7 @@
             ]
         }
     ],
-    "Sport": [
+    "Sports": [
         {
             "game_number": 1,
             "r1_answer": "Team Sport",
@@ -1367,7 +1215,7 @@
             ]
         }
     ],
-    "Invention": [
+    "Inventions": [
         {
             "game_number": 1,
             "r1_answer": "Medical",
@@ -1516,6 +1364,158 @@
                 "Piano",
                 "Violin",
                 "Drums"
+            ]
+        }
+    ],
+    "Technology": [
+        {
+            "game_number": 1,
+            "r1_answer": "Social Media",
+            "r1_choices": [
+                "Social Media",
+                "Search Engine",
+                "E-commerce"
+            ],
+            "r2_answer": "Instagram",
+            "r2_choices": [
+                "Facebook",
+                "Instagram",
+                "TikTok"
+            ]
+        },
+        {
+            "game_number": 2,
+            "r1_answer": "Operating System",
+            "r1_choices": [
+                "Operating System",
+                "Programming Language",
+                "Database"
+            ],
+            "r2_answer": "Windows",
+            "r2_choices": [
+                "Windows",
+                "macOS",
+                "Linux"
+            ]
+        },
+        {
+            "game_number": 3,
+            "r1_answer": "Cloud Service",
+            "r1_choices": [
+                "Cloud Service",
+                "Cybersecurity",
+                "Artificial Intelligence"
+            ],
+            "r2_answer": "Amazon Web Services",
+            "r2_choices": [
+                "Amazon Web Services",
+                "Microsoft Azure",
+                "Google Cloud"
+            ]
+        },
+        {
+            "game_number": 4,
+            "r1_answer": "Streaming Platform",
+            "r1_choices": [
+                "Streaming Platform",
+                "Music App",
+                "Podcast App"
+            ],
+            "r2_answer": "Netflix",
+            "r2_choices": [
+                "Netflix",
+                "Disney+",
+                "Hulu"
+            ]
+        },
+        {
+            "game_number": 5,
+            "r1_answer": "Smartphone",
+            "r1_choices": [
+                "Smartphone",
+                "Laptop",
+                "Tablet"
+            ],
+            "r2_answer": "iPhone",
+            "r2_choices": [
+                "iPhone",
+                "Samsung Galaxy",
+                "Google Pixel"
+            ]
+        },
+        {
+            "game_number": 6,
+            "r1_answer": "Payment System",
+            "r1_choices": [
+                "Payment System",
+                "Cryptocurrency",
+                "Banking App"
+            ],
+            "r2_answer": "PayPal",
+            "r2_choices": [
+                "PayPal",
+                "Venmo",
+                "Apple Pay"
+            ]
+        },
+        {
+            "game_number": 7,
+            "r1_answer": "Web Browser",
+            "r1_choices": [
+                "Web Browser",
+                "Email Client",
+                "Video Conferencing"
+            ],
+            "r2_answer": "Google Chrome",
+            "r2_choices": [
+                "Google Chrome",
+                "Firefox",
+                "Safari"
+            ]
+        },
+        {
+            "game_number": 8,
+            "r1_answer": "Game Console",
+            "r1_choices": [
+                "Game Console",
+                "Virtual Reality",
+                "Desktop PC"
+            ],
+            "r2_answer": "PlayStation 5",
+            "r2_choices": [
+                "PlayStation 5",
+                "Xbox Series X",
+                "Nintendo Switch"
+            ]
+        },
+        {
+            "game_number": 9,
+            "r1_answer": "Artificial Intelligence",
+            "r1_choices": [
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Blockchain"
+            ],
+            "r2_answer": "ChatGPT",
+            "r2_choices": [
+                "ChatGPT",
+                "Google Gemini",
+                "Claude"
+            ]
+        },
+        {
+            "game_number": 10,
+            "r1_answer": "Ride-Sharing",
+            "r1_choices": [
+                "Ride-Sharing",
+                "Food Delivery",
+                "Navigation App"
+            ],
+            "r2_answer": "Uber",
+            "r2_choices": [
+                "Uber",
+                "Lyft",
+                "Grab"
             ]
         }
     ]
