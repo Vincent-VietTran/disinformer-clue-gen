@@ -1,7 +1,7 @@
-# Analysis for Test 7
+# Analysis for Test 1
 
 # Game Clue Analysis Matrix
-**Test Run 7 | Round 1: Movie**
+**Test Run 1 | Round 1: Movie**
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Compliance Rate:** 100% (15/15 clues)  
 **Outliers:** 0/15 clues failed  
-**Average Word Count:** 16.8 words
+**Average Word Count:** 17.5 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -23,7 +23,7 @@
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-Clues are highly specific to the chosen answer without using forbidden words. They cover multiple facets like suspense, danger, emotional turmoil, and plot devices like twists and time constraints. The clues are distinct and avoid overlap.
+Clues are specific to Sci-Fi without using forbidden words. They highlight technological advancements, future settings, and speculative concepts. Variety of phrasing is good.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -35,7 +35,7 @@ Clues are highly specific to the chosen answer without using forbidden words. Th
 ### Misinformed Clues: 3/5  
 **Good - Meets requirements**
 
-The clues are factually true for 'Thriller' and also plausibly true for 'Action' (excitement, overcoming obstacles, facing danger). They are not so vague as to be meaningless but avoid being overly specific to 'Thriller' alone, creating some productive ambiguity.
+Clues are generally true for all options but could be more ambiguous. 'Suspense, thrills, and elements of the unknown' is a good shared attribute. 'Fantastical elements and imaginative creatures' is a bit more specific to Fantasy, but still plausible for Sci-Fi and Horror in a broad sense.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,7 @@ The clues are factually true for 'Thriller' and also plausibly true for 'Action'
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-These clues are highly effective at misdirecting to 'Action' by focusing on 'villains with amazing strength and power' and 'car chases, explosions, and fight scenes'. They are completely unrelated to 'Thriller' and avoid any overlap with the correct answer.
+These clues are excellent. 'Jump scares and intense sound design' strongly points to Horror and is completely unrelated to Sci-Fi. 'Mythical creatures, magic spells, and epic quests' clearly directs towards Fantasy and away from Sci-Fi.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,7 +74,7 @@ These clues are highly effective at misdirecting to 'Action' by focusing on 'vil
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are strong, but the misinformed clues offer enough ambiguity to make it challenging. The fake clues are very misleading, increasing the difficulty.
+**Reasoning:** The informed clues are strong enough to guide players toward the correct answer, while the fake clues effectively misdirect. The misinformed clues offer a moderate level of ambiguity, making the game challenging but not impossible.
 
 ---
 
@@ -86,6 +86,7 @@ These clues are highly effective at misdirecting to 'Action' by focusing on 'vil
 
 **Main Issues:**
 - Insufficient ambiguity in misinformed clues
+- Answer word revealed in clues
 
 **Priority Actions:**
 1. Minor length adjustments
@@ -93,13 +94,13 @@ These clues are highly effective at misdirecting to 'Action' by focusing on 'vil
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are excellent, providing precise details without revealing the answer. The misinformed clues create reasonable ambiguity, particularly with the 'Action' genre. The fake clues are highly effective misdirection towards 'Action'. The difficulty is well-balanced.
+The informed clues are precise and well-written, avoiding any answer contamination. The fake clues are highly effective in misdirecting players to the incorrect choices. The misinformed clues provide a decent level of ambiguity, contributing to a balanced difficulty.
 
 ---
 
 
 # Game Clue Analysis Matrix
-**Test Run 7 | Round 2: Movie**
+**Test Run 1 | Round 2: Movie**
 
 ---
 
@@ -110,7 +111,7 @@ The informed clues are excellent, providing precise details without revealing th
 
 **Compliance Rate:** 100% (15/15 clues)  
 **Outliers:** 0/15 clues failed  
-**Average Word Count:** 17.0 words
+**Average Word Count:** 17.1 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -121,7 +122,7 @@ The informed clues are excellent, providing precise details without revealing th
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-The clues are highly specific and directly describe elements unique to 'Inception' without overlapping with the other choices. They avoid any answer-word contamination and use descriptive paraphrases effectively.
+Clues are highly specific to 'The Matrix' without using forbidden words. They cover different aspects like themes, visuals, narrative, and characters. No answer contamination or synonym use is apparent.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -130,10 +131,10 @@ The clues are highly specific and directly describe elements unique to 'Inceptio
 ⚠️ Concerns:
 - Minor thematic overlap observed
 
-### Misinformed Clues: 2/5  
-**Fair - Below expectations**
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
 
-The misinformed clues are too generic and could apply to almost any team-based adventure or mission-oriented narrative. They lack the subtle ambiguity needed to productively confuse the player between the correct and incorrect answers. They are too broad to create specific, yet plausible, misdirection.
+The clues are factually true for all three options but are too generic. 'This movie has many exciting scenes and is one of the most popular movies of all time' and 'This movie has a lot of special effects and is very entertaining to watch on a big screen' could apply to any major blockbuster. They create ambiguity but not in a particularly productive or challenging way because they are so broad.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -146,7 +147,7 @@ The misinformed clues are too generic and could apply to almost any team-based a
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The fake clues are excellent. They perfectly target 'Sherlock Holmes' and 'James Bond' respectively, using specific tropes (detective, intricate clues, secret agent, gadgets, daring missions) that are strongly associated with those choices and completely absent from 'Inception'.
+These clues are excellent at misdirecting. The first clue strongly points to 'The Conjuring' by describing its core plot, and the second clue perfectly describes 'The Lord of the Rings'. They are specific enough to be believable for those choices and completely unrelated to 'The Matrix'.
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -170,15 +171,15 @@ The fake clues are excellent. They perfectly target 'Sherlock Holmes' and 'James
 
 | Score | Assessment |
 |-------|------------|
-| Rating | 2/5 - 🟢 Too Easy |
+| Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are very strong and point directly to the answer. The misinformed clues are too weak to create significant ambiguity, and the fake clues are highly effective at misdirecting away from the correct answer. This combination makes the puzzle lean towards being too easy, as the informed clues are dominant.
+**Reasoning:** The informed clues are strong and specific enough to guide a player towards the correct answer, while the fake clues provide effective misdirection. The misinformed clues are a bit too vague, which slightly lowers the overall challenge, but the combination still creates a balanced difficulty.
 
 ---
 
 ## Overall Assessment
 
-**Overall Quality Score:** 4.0/5
+**Overall Quality Score:** 4.3/5
 
 **Pass/Fail:** ✅ PASS
 
@@ -188,11 +189,11 @@ The fake clues are excellent. They perfectly target 'Sherlock Holmes' and 'James
 
 **Priority Actions:**
 1. Minor length adjustments
-2. Enhance misinformed clue ambiguity
+2. Maintain misinformed clue quality
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are exceptionally well-crafted and highly specific to the correct answer. The fake clues are also very strong, effectively misdirecting to the incorrect options. The misinformed clues are the weakest element, being too generic to create productive ambiguity. The overall difficulty is low due to the strength of the informed clues.
+The informed clues are excellent and highly specific. The fake clues are very effective at misdirecting to the incorrect answers. The misinformed clues are too generic and could be improved for more productive ambiguity, but the overall set is good.
 
 ---
 
@@ -202,4 +203,4 @@ The informed clues are exceptionally well-crafted and highly specific to the cor
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
 | 1 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
-| 2 | 100% | 5/5 | 2/5 | 5/5 | 2/5 |
+| 2 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
