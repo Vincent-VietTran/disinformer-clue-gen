@@ -1,5 +1,5 @@
 GeneralGames (collection)
- └── EN_GameTopic (document)
+ └── LanguageCode_GameTopic (document)
       └── games (Array)
             ├── gameName (string) = round1_Answer - round2_Answer 
             ├── id (id)
