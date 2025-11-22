@@ -1409,8 +1409,8 @@
             "r2_answer": "Amazon Web Services",
             "r2_choices": [
                 "Amazon Web Services",
-                "Microsoft Azure",
-                "Google Cloud"
+                "Zoom",
+                "Google Drive"
             ]
         },
         {
@@ -1425,7 +1425,7 @@
             "r2_choices": [
                 "Netflix",
                 "Disney+",
-                "Hulu"
+                "Youtube"
             ]
         },
         {
@@ -1454,7 +1454,7 @@
             "r2_answer": "PayPal",
             "r2_choices": [
                 "PayPal",
-                "Venmo",
+                "Binance",
                 "Apple Pay"
             ]
         },
@@ -1493,14 +1493,14 @@
             "r1_answer": "Artificial Intelligence",
             "r1_choices": [
                 "Artificial Intelligence",
-                "Machine Learning",
+                "Cloud Computing",
                 "Blockchain"
             ],
             "r2_answer": "ChatGPT",
             "r2_choices": [
                 "ChatGPT",
-                "Google Gemini",
-                "Claude"
+                "Midjourney",
+                "Hugging Face"
             ]
         },
         {
@@ -1514,8 +1514,8 @@
             "r2_answer": "Uber",
             "r2_choices": [
                 "Uber",
-                "Lyft",
-                "Grab"
+                "DoorDash",
+                "Temu"
             ]
         }
     ]

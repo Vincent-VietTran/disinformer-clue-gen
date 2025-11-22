@@ -10,9 +10,9 @@
 |--------|----------|
 | ✅ PASS | Clues within 15-20 words |
 
-**Compliance Rate:** 100% (14/14 clues)  
-**Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.1 words
+**Compliance Rate:** 100% (15/15 clues)  
+**Outliers:** 0/15 clues failed  
+**Average Word Count:** 16.2 words
 
 **Assessment:** ✅ Acceptable - Most clues meet length requirements
 
@@ -23,7 +23,7 @@
 ### Informed Clues: 5/5  
 **Excellent - Outstanding**
 
-The clues are highly specific and directly point to the core concepts of Sci-Fi without using any forbidden words. They cover technology, future societies, scientific implications, and common tropes like AI and aliens, which are all distinctive to Sci-Fi.
+The clues are highly specific to Sci-Fi, using terms like 'possible futures', 'technology's impact', 'space travel, robots', 'scientific advancements', 'artificial intelligence', 'extraterrestrial life', and 'advanced technologies'. These are all core elements that distinctly point to Sci-Fi without being overly technical or naming specific works. They successfully describe the essence of the genre.
 
 ✅ Strengths:
 - Generally specific and relate to correct answer
@@ -32,10 +32,10 @@ The clues are highly specific and directly point to the core concepts of Sci-Fi 
 ⚠️ Concerns:
 - Minor thematic overlap observed
 
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
+### Misinformed Clues: 4/5  
+**Very Good - Exceeds expectations**
 
-The misinformed clues are a bit borderline. 'This genre often features suspense, thrills, and elements of the unknown, keeping audiences on the edge of their seats' could apply to Sci-Fi, Dystopian, and Fantasy to some extent, though perhaps less strongly to Dystopian as a primary characteristic. 'Stories in this genre often focus on the relationships between characters and their struggles with problems' is very general and could apply to all three, but it's so broad it might not create productive ambiguity. The ambiguity is present but not as strong as it could be.
+These clues are excellent at creating ambiguity. 'Entertain and engage readers through imagined worlds and situations' and 'deal with a variety of themes, including good versus evil, love, and self-discovery' are true for all three genres (Sci-Fi, Dystopian, Fantasy). They don't point to any single option specifically, making them genuinely misleading.
 
 ✅ Strengths:
 - Attempt to create ambiguity
@@ -48,7 +48,105 @@ The misinformed clues are a bit borderline. 'This genre often features suspense,
 ### Fake Clues: 5/5  
 **Excellent - Outstanding**
 
-The first fake clue ('majestic castles, mythical creatures, and epic quests') is a perfect misdirection for Fantasy. The second fake clue ('social control, rebellion, and the fight for freedom within a unique society') is a strong misdirection for Dystopian. Both are highly plausible for their respective incorrect answers and completely unrelated to Sci-Fi.
+These clues are highly effective at misdirecting players. The first and third clues ('epic battles between good and evil, with magic and mythical creatures', 'swords, sorcery, and medieval settings') are perfect descriptors for Fantasy, and the second clue ('struggles of characters against oppressive governments and societal structures') is a strong descriptor for Dystopian. They completely avoid any connection to Sci-Fi.
+
+✅ Strengths:
+- Effectively misdirect to wrong answer choices
+- Clear deception without being obvious
+
+---
+
+## 3. Diversity Check
+
+| Aspect | Status |
+|--------|--------|
+| Theme Coverage | ✅ PASS |
+| Clue Variation | ✅ PASS |
+| Angle Coverage | ✅ PASS |
+
+**Issues Found:** None identified
+
+---
+
+## 4. Difficulty Rating
+
+| Score | Assessment |
+|-------|------------|
+| Rating | 4/5 - 🟠 Too Hard |
+
+**Reasoning:** The informed clues are very strong and specific, making the correct answer quite clear to those familiar with the genres. However, the misinformed clues are exceptionally well-crafted, creating significant ambiguity that could easily lead someone to the wrong answer if they aren't paying close attention to the nuances of the informed clues. The fake clues are also very strong misdirectors. This balance of strong informed and misleading misinformed/fake clues makes the game challenging but fair.
+
+---
+
+## Overall Assessment
+
+**Overall Quality Score:** 4.7/5
+
+**Pass/Fail:** ✅ PASS
+
+**Main Issues:**
+- Minor issues noted
+
+**Priority Actions:**
+1. Minor length adjustments
+2. Maintain misinformed clue quality
+3. Maintain current diversity
+
+**Overall Notes:**  
+The informed clues are precise and strongly indicative of Sci-Fi. The misinformed clues are masterful in their ability to apply to all three options, creating genuine confusion. The fake clues are highly effective at steering players towards Fantasy and Dystopian. The overall difficulty is appropriate for a game that requires careful analysis.
+
+---
+
+
+# Game Clue Analysis Matrix
+**Test Run 4 | Round 2: Books**
+
+---
+
+## 1. Length Compliance
+| Status | Criteria |
+|--------|----------|
+| ✅ PASS | Clues within 15-20 words |
+
+**Compliance Rate:** 100% (15/15 clues)  
+**Outliers:** 0/15 clues failed  
+**Average Word Count:** 16.7 words
+
+**Assessment:** ✅ Acceptable - Most clues meet length requirements
+
+---
+
+## 2. Quality Scores (Rate 1-5)
+
+### Informed Clues: 5/5  
+**Excellent - Outstanding**
+
+The clues are highly specific and use precise descriptive language that directly points to '1984' without using any forbidden words. They capture the essence of surveillance, thought control, totalitarianism, and the struggle against oppressive systems.
+
+✅ Strengths:
+- Generally specific and relate to correct answer
+- Provide distinct perspectives where applicable
+
+⚠️ Concerns:
+- Minor thematic overlap observed
+
+### Misinformed Clues: 3/5  
+**Good - Meets requirements**
+
+These clues are true for all options, as they all explore themes of social control and the consequences of political power. However, the ambiguity is moderate; 'social control' and 'authoritarian regimes' might lean slightly more towards '1984' and 'Brave New World' than 'Foundation,' but it's a reasonable intersection for misdirection.
+
+✅ Strengths:
+- Attempt to create ambiguity
+- Generally related to the correct answer
+
+⚠️ Concerns:
+- May need more subtle misdirection
+- Ambiguity effectiveness varies
+
+### Fake Clues: 5/5  
+**Excellent - Outstanding**
+
+These clues are excellent at misdirecting. The first clue strongly points to 'Brave New World,' the second to 'Foundation,' and the third to a generic fantasy quest. None of them are related to '1984.'
 
 ✅ Strengths:
 - Effectively misdirect to wrong answer choices
@@ -74,7 +172,7 @@ The first fake clue ('majestic castles, mythical creatures, and epic quests') is
 |-------|------------|
 | Rating | 3/5 - 🟢 Just Right |
 
-**Reasoning:** The informed clues are strong, and the fake clues are very effective misdirections. The misinformed clues are a bit weaker in creating broad ambiguity, which slightly lowers the overall difficulty. A player would need to carefully parse the informed clues and resist the strong pull of the fake clues.
+**Reasoning:** The informed clues are very strong, making the correct answer clear if one is familiar with the books. The misinformed clues provide a decent level of ambiguity, and the fake clues are effective misdirections. This combination creates a balanced difficulty.
 
 ---
 
@@ -93,105 +191,7 @@ The first fake clue ('majestic castles, mythical creatures, and epic quests') is
 3. Maintain current diversity
 
 **Overall Notes:**  
-The informed clues are excellent and highly specific to Sci-Fi. The fake clues are very strong and effectively target Fantasy and Dystopian. The misinformed clues are acceptable but could be more universally applicable to create stronger ambiguity across all three options.
-
----
-
-
-# Game Clue Analysis Matrix
-**Test Run 4 | Round 2: Books**
-
----
-
-## 1. Length Compliance
-| Status | Criteria |
-|--------|----------|
-| ✅ PASS | Clues within 15-20 words |
-
-**Compliance Rate:** 100% (14/14 clues)  
-**Outliers:** 0/14 clues failed  
-**Average Word Count:** 16.6 words
-
-**Assessment:** ✅ Acceptable - Most clues meet length requirements
-
----
-
-## 2. Quality Scores (Rate 1-5)
-
-### Informed Clues: 5/5  
-**Excellent - Outstanding**
-
-The clues are highly specific and accurately describe key elements of '1984' without using any direct keywords or obvious synonyms. They cover surveillance, propaganda, language manipulation, and the suppression of individuality, which are central to the book.
-
-✅ Strengths:
-- Generally specific and relate to correct answer
-- Provide distinct perspectives where applicable
-
-⚠️ Concerns:
-- Minor thematic overlap observed
-
-### Misinformed Clues: 3/5  
-**Good - Meets requirements**
-
-These clues are factually true for '1984' but are also general enough to apply to a wide range of fictional narratives, including 'Brave New World' and 'Foundation'. They don't offer specific details that would help differentiate between the choices, creating a moderate level of ambiguity.
-
-✅ Strengths:
-- Attempt to create ambiguity
-- Generally related to the correct answer
-
-⚠️ Concerns:
-- May need more subtle misdirection
-- Ambiguity effectiveness varies
-
-### Fake Clues: 5/5  
-**Excellent - Outstanding**
-
-These clues are excellent at misdirection. The first clue strongly points to 'Foundation' (interstellar travel, galactic civilizations) while the second clue strongly points to 'Foundation' or potentially 'Brave New World' (challenges, conflicts, human spirit). They are completely unrelated to '1984' and effectively target incorrect answers.
-
-✅ Strengths:
-- Effectively misdirect to wrong answer choices
-- Clear deception without being obvious
-
----
-
-## 3. Diversity Check
-
-| Aspect | Status |
-|--------|--------|
-| Theme Coverage | ✅ PASS |
-| Clue Variation | ✅ PASS |
-| Angle Coverage | ✅ PASS |
-
-**Issues Found:** None identified
-
----
-
-## 4. Difficulty Rating
-
-| Score | Assessment |
-|-------|------------|
-| Rating | 3/5 - 🟢 Just Right |
-
-**Reasoning:** The informed clues are strong, but the misinformed clues are general enough to potentially cause some confusion. The fake clues are very effective at misdirecting away from the correct answer. This combination makes for a moderately challenging game.
-
----
-
-## Overall Assessment
-
-**Overall Quality Score:** 4.3/5
-
-**Pass/Fail:** ✅ PASS
-
-**Main Issues:**
-- Minor issues noted
-
-**Priority Actions:**
-1. Minor length adjustments
-2. Maintain misinformed clue quality
-3. Maintain current diversity
-
-**Overall Notes:**  
-The informed clues are precise and well-crafted. The misinformed clues are appropriately vague. The fake clues are highly effective at misdirecting players to the wrong answers. The difficulty level is well-balanced.
+The informed clues are excellent and highly specific to the correct answer without using forbidden terms. The misinformed clues achieve a good level of ambiguity by focusing on shared thematic elements. The fake clues are well-crafted to pull attention to incorrect answers. The difficulty is well-balanced.
 
 ---
 
@@ -200,5 +200,5 @@ The informed clues are precise and well-crafted. The misinformed clues are appro
 
 | Round | Length Compliance | Informed | Misinformed | Fake | Difficulty |
 |-------|-------------------|----------|-------------|------|------------|
-| 1 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
+| 1 | 100% | 5/5 | 4/5 | 5/5 | 4/5 |
 | 2 | 100% | 5/5 | 3/5 | 5/5 | 3/5 |
