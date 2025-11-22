@@ -120,7 +120,6 @@ test_run,topic_category,round,answer,choices,clue_type,clue_number,clue_text,wor
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",informed,7,"This genre can incorporate elements of mystery, incorporating clues and puzzles that the audience must solve.",16,YES,
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",informed,8,"This exciting storytelling format thrives on suspense, making the reader feel anxious and uncertain about events.",16,YES,
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",informed,9,"Unexpected plot turns and surprises are a hallmark, keeping the reader guessing until the very end of the story.",19,YES,
-5,Books,1,Thriller,"Thriller, Suspense, Mystery",informed,10,"It's a genre that aims to provoke strong emotional responses, such as fear, anticipation, and excitement in readers.",18,YES,
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",misinformed,1,"This genre often features suspense, thrills, and elements of the unknown, keeping audiences on the edge of their seats.",19,YES,
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",misinformed,2,The narrative often involves complex characters and intricate plots which can be very difficult to follow sometimes.,17,YES,
 5,Books,1,Thriller,"Thriller, Suspense, Mystery",fake,1,The story centers on a daring rescue mission with a team facing perilous conditions and impossible odds.,17,YES,

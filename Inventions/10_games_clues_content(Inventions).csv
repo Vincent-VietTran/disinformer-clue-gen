@@ -148,7 +148,6 @@ test_run,topic_category,round,answer,choices,clue_type,clue_number,clue_text,wor
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",informed,7,This is a fundamental skill that helped early civilizations expand and discover new lands and resources.,16,YES,
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",informed,8,"Techniques and tools have dramatically improved, making travel more efficient and precise for all people.",15,YES,
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",informed,9,"Essential for travel, it provides direction and prevents people from getting lost on journeys around the world.",17,YES,
-6,Inventions,1,Navigation,"Household, Scientific, Navigation",informed,10,"This is an important field that assists in the planning, directing, and controlling the movement of objects.",17,YES,
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",misinformed,1,This involves the use of tools and methodologies to understand and interact with the surrounding environment.,16,YES,
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",misinformed,2,"It is a field that has seen continuous advancements, driven by the desire for improvement and efficiency.",17,YES,
 6,Inventions,1,Navigation,"Household, Scientific, Navigation",fake,1,"This involves creating items to improve daily life, often focusing on convenience and ease of use in homes.",18,YES,
