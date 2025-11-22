@@ -2,3 +2,4 @@
 .venv
 .github
 groq_models.json
+serviceAccountKey.json
