@@ -1,0 +1,12 @@
+GeneralGames (collection)
+ └── EN_GameTopic (document)
+      └── games (Array)
+            ├── gameName (string) = round1_Answer - round2_Answer 
+            ├── id (id)
+            ├── rounds (Array)
+                  ├── answer (string)
+                  ├── choices (Array)
+                  └── informed_clues (Array)
+                  └── misinformed_clues (Array)
+                  └── fake_clues (Array)
+                  └── extra_clue (String)
